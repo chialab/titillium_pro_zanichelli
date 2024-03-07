@@ -1164,6 +1164,8 @@
 	<string>mdotaccent.glif</string>
 	<key>mdotbelow</key>
 	<string>mdotbelow.glif</string>
+	<key>mediumWhiteCircle</key>
+	<string>mediumW_hiteC_ircle.glif</string>
 	<key>mediumspace-math</key>
 	<string>mediumspace-math.glif</string>
 	<key>micro</key>
@@ -1680,6 +1682,8 @@
 	<string>wgrave.glif</string>
 	<key>whiteCircle</key>
 	<string>whiteC_ircle.glif</string>
+	<key>whiteLargeSquare</key>
+	<string>whiteL_argeS_quare.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>y</key>

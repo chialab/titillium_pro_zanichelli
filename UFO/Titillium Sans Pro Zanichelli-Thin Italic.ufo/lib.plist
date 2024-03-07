@@ -688,6 +688,8 @@
 		<string>macronbelowcomb.case</string>
 		<string>strokeshortcomb.case</string>
 		<string>dotaccentcomb.i</string>
+		<string>mediumWhiteCircle</string>
+		<string>whiteLargeSquare</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Thin Italic</string>
@@ -1345,6 +1347,8 @@
 		<string>commaabovecomb.case</string>
 		<string>strokeshortcomb.case</string>
 		<string>dotaccentcomb.i</string>
+		<string>mediumWhiteCircle</string>
+		<string>whiteLargeSquare</string>
 		<string>A.ss03</string>
 		<string>B.ss03</string>
 		<string>C.ss03</string>
@@ -1905,6 +1909,8 @@
 		<string>uni1E41</string>
 		<key>mdotbelow</key>
 		<string>uni1E43</string>
+		<key>mediumWhiteCircle</key>
+		<string>uni26AA</string>
 		<key>mediumspace-math</key>
 		<string>uni205F</string>
 		<key>micro</key>
@@ -2101,6 +2107,8 @@
 		<string>uni1E7D</string>
 		<key>whiteCircle</key>
 		<string>circle</string>
+		<key>whiteLargeSquare</key>
+		<string>uni2B1C</string>
 		<key>ymacron</key>
 		<string>uni0233</string>
 		<key>ytilde</key>

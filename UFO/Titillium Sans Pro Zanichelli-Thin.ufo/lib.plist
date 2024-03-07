@@ -725,6 +725,8 @@
 		<string>macronbelowcomb.case</string>
 		<string>strokeshortcomb.case</string>
 		<string>dotaccentcomb.i</string>
+		<string>mediumWhiteCircle</string>
+		<string>whiteLargeSquare</string>
 	</array>
 	<key>com.schriftgestaltung.master.name</key>
 	<string>Thin</string>
@@ -1382,6 +1384,8 @@
 		<string>commaabovecomb.case</string>
 		<string>strokeshortcomb.case</string>
 		<string>dotaccentcomb.i</string>
+		<string>mediumWhiteCircle</string>
+		<string>whiteLargeSquare</string>
 		<string>A.ss03</string>
 		<string>B.ss03</string>
 		<string>C.ss03</string>
