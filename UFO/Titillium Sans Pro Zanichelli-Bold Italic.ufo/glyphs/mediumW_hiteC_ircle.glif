@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mediumWhiteCircle" format="2">
+	<advance width="1275"/>
+	<unicode hex="26AA"/>
+	<outline>
+		<component base="_sferiliumstroke"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>_sferiliumstroke</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>_sferiliumstroke</string>
+		</dict>
+	</lib>
+</glyph>
