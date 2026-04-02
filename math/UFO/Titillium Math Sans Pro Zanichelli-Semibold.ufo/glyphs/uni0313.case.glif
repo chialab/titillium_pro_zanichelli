@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0313.case" format="2">
+  <advance width="0"/>
+  <note>
+uni0313.case
+</note>
+  <anchor x="125" y="705" name="_top"/>
+  <outline>
+    <contour>
+      <point x="200" y="890" type="line"/>
+      <point x="124" y="935" type="line"/>
+      <point x="51" y="804" type="line"/>
+      <point x="109" y="767" type="line"/>
+    </contour>
+  </outline>
+</glyph>

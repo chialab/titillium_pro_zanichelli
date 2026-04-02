@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0145" format="2">
+  <advance width="729"/>
+  <unicode hex="0145"/>
+  <note>
+uni0145
+</note>
+  <anchor x="324" y="-265" name="bottom"/>
+  <anchor x="374" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="322" y="710" type="line"/>
+      <point x="72" y="710" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="590" type="line"/>
+      <point x="240" y="590" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="657" y="710" type="line"/>
+      <point x="519" y="710" type="line"/>
+      <point x="519" y="120" type="line"/>
+      <point x="489" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="-69" type="line"/>
+      <point x="253" y="-239" type="line"/>
+      <point x="326" y="-282" type="line"/>
+      <point x="435" y="-125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

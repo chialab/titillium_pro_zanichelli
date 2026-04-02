@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni006A0301" format="2">
+  <advance width="222"/>
+  <note>
+uni006A0301
+</note>
+  <anchor x="105" y="-230" name="bottom"/>
+  <anchor x="120" y="740" name="top"/>
+  <outline>
+    <contour>
+      <point x="149" y="500" type="line"/>
+      <point x="73" y="500" type="line"/>
+      <point x="73" y="-6" type="line" smooth="yes"/>
+      <point x="73" y="-102"/>
+      <point x="52" y="-125"/>
+      <point x="-49" y="-184" type="curve"/>
+      <point x="-19" y="-242" type="line"/>
+      <point x="114" y="-174"/>
+      <point x="149" y="-130"/>
+      <point x="149" y="-7" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="215" y="740" type="line"/>
+      <point x="-1" y="642" type="line"/>
+      <point x="20" y="591" type="line"/>
+      <point x="241" y="676" type="line"/>
+    </contour>
+  </outline>
+</glyph>

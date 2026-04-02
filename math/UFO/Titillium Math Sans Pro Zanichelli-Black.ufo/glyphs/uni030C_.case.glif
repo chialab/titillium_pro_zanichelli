@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.case" format="2">
+  <advance width="0"/>
+  <note>
+uni030C.case
+</note>
+  <anchor x="243" y="710" name="_top"/>
+  <outline>
+    <contour>
+      <point x="274" y="937" type="line"/>
+      <point x="243" y="854" type="line"/>
+      <point x="212" y="937" type="line"/>
+      <point x="50" y="937" type="line"/>
+      <point x="131" y="757" type="line"/>
+      <point x="355" y="757" type="line"/>
+      <point x="436" y="937" type="line"/>
+    </contour>
+  </outline>
+</glyph>

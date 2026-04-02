@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcaron" format="2">
+  <advance width="372"/>
+  <unicode hex="0159"/>
+  <note>
+rcaron
+</note>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="206" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="195" y="510" type="line"/>
+      <point x="62" y="510" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="345" type="line"/>
+      <point x="196" y="345"/>
+      <point x="267" y="374"/>
+      <point x="355" y="391" type="curve"/>
+      <point x="355" y="526" type="line"/>
+      <point x="279" y="511"/>
+      <point x="195" y="457"/>
+      <point x="195" y="457" type="curve"/>
+    </contour>
+    <contour>
+      <point x="137" y="748" type="line"/>
+      <point x="17" y="748" type="line"/>
+      <point x="148" y="571" type="line"/>
+      <point x="264" y="571" type="line"/>
+      <point x="395" y="748" type="line"/>
+      <point x="275" y="748" type="line"/>
+      <point x="206" y="650" type="line"/>
+    </contour>
+  </outline>
+</glyph>

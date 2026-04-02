@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2082" format="2">
+  <advance width="265"/>
+  <unicode hex="2082"/>
+  <note>
+uni2082
+</note>
+  <outline>
+    <contour>
+      <point x="27" y="-70" type="line"/>
+      <point x="27" y="-125" type="line"/>
+      <point x="236" y="-125" type="line"/>
+      <point x="236" y="-67" type="line"/>
+      <point x="108" y="-67" type="line"/>
+      <point x="172" y="-4" type="line" smooth="yes"/>
+      <point x="212" y="36"/>
+      <point x="232" y="63"/>
+      <point x="232" y="109" type="curve" smooth="yes"/>
+      <point x="232" y="171"/>
+      <point x="202" y="200"/>
+      <point x="133" y="200" type="curve" smooth="yes"/>
+      <point x="89" y="200"/>
+      <point x="30" y="188"/>
+      <point x="30" y="188" type="curve"/>
+      <point x="32" y="131" type="line"/>
+      <point x="32" y="131"/>
+      <point x="88" y="140"/>
+      <point x="117" y="140" type="curve" smooth="yes"/>
+      <point x="146" y="140"/>
+      <point x="166" y="129"/>
+      <point x="166" y="103" type="curve" smooth="yes"/>
+      <point x="166" y="73"/>
+      <point x="146" y="51"/>
+      <point x="115" y="20" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

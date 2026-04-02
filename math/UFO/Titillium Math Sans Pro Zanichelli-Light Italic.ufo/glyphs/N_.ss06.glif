@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.ss06" format="2">
+  <advance width="1222"/>
+  <note>
+N.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-230" type="line"/>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="700" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="505" y="642" type="line"/>
+      <point x="535" y="642" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="925" y="700" type="line"/>
+      <point x="864" y="700" type="line"/>
+      <point x="727" y="58" type="line"/>
+      <point x="698" y="58" type="line"/>
+      <point x="584" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+M.ss05
+</note>
+  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="611" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="870" type="line"/>
+      <point x="80" y="-196" type="line"/>
+      <point x="1142" y="-196" type="line"/>
+      <point x="1142" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="710" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="385" type="line"/>
+      <point x="466" y="385" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
+      <point x="755" y="385" type="line"/>
+      <point x="779" y="385" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="993" y="0" type="line"/>
+      <point x="993" y="710" type="line"/>
+      <point x="665" y="710" type="line"/>
+      <point x="610" y="364" type="line"/>
+      <point x="554" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

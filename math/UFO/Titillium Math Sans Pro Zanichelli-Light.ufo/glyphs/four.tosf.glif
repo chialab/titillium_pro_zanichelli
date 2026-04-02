@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="560"/>
+  <note>
+four.pnum
+</note>
+  <outline>
+    <contour>
+      <point x="98" y="120" type="line"/>
+      <point x="381" y="120" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="120" type="line"/>
+      <point x="494" y="120" type="line"/>
+      <point x="494" y="174" type="line"/>
+      <point x="438" y="174" type="line"/>
+      <point x="438" y="321" type="line"/>
+      <point x="381" y="321" type="line"/>
+      <point x="381" y="174" type="line"/>
+      <point x="161" y="174" type="line"/>
+      <point x="331" y="500" type="line"/>
+      <point x="266" y="500" type="line"/>
+      <point x="98" y="166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-03 15:03:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

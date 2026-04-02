@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute" format="2">
+  <advance width="372"/>
+  <unicode hex="0155"/>
+  <note>
+racute
+</note>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="231" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="195" y="510" type="line"/>
+      <point x="62" y="510" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="345" type="line"/>
+      <point x="196" y="345"/>
+      <point x="267" y="374"/>
+      <point x="355" y="391" type="curve"/>
+      <point x="355" y="526" type="line"/>
+      <point x="279" y="511"/>
+      <point x="195" y="457"/>
+      <point x="195" y="457" type="curve"/>
+    </contour>
+    <contour>
+      <point x="346" y="753" type="line"/>
+      <point x="78" y="651" type="line"/>
+      <point x="106" y="564" type="line"/>
+      <point x="384" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

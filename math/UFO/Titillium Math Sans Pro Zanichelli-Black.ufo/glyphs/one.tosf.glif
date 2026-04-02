@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="560"/>
+  <note>
+one.pnum
+</note>
+  <outline>
+    <contour>
+      <point x="258" y="520" type="line"/>
+      <point x="78" y="410" type="line"/>
+      <point x="136" y="283" type="line"/>
+      <point x="229" y="332" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-03-03 13:42:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

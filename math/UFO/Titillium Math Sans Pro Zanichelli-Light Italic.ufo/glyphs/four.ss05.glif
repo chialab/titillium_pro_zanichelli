@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss05" format="2">
+  <advance width="1183"/>
+  <note>
+four.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-230" type="line"/>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="843" type="line"/>
+      <point x="-2" y="-169" type="line"/>
+      <point x="1007" y="-169" type="line"/>
+      <point x="1222" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="182" type="line"/>
+      <point x="324" y="134" type="line"/>
+      <point x="642" y="134" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="700" y="134" type="line"/>
+      <point x="791" y="134" type="line"/>
+      <point x="803" y="188" type="line"/>
+      <point x="712" y="188" type="line"/>
+      <point x="757" y="400" type="line"/>
+      <point x="698" y="400" type="line"/>
+      <point x="653" y="188" type="line"/>
+      <point x="401" y="188" type="line"/>
+      <point x="709" y="660" type="line"/>
+      <point x="640" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

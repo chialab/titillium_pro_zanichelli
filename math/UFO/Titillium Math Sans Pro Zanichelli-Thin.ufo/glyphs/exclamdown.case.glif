@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.case" format="2">
+  <advance width="214"/>
+  <note>
+exclamdown.case
+</note>
+  <outline>
+    <contour>
+      <point x="87" y="700" type="line"/>
+      <point x="87" y="620" type="line"/>
+      <point x="127" y="620" type="line"/>
+      <point x="127" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="486" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="486" type="line"/>
+    </contour>
+  </outline>
+</glyph>

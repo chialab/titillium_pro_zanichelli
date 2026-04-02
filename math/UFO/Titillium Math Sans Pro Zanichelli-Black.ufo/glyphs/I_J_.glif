@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="649"/>
+  <unicode hex="0132"/>
+  <note>
+IJ
+</note>
+  <anchor x="478" y="0" name="bottom"/>
+  <anchor x="156" y="353" name="center"/>
+  <anchor x="271" y="0" name="ogonek"/>
+  <anchor x="492" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="272" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="184" type="curve"/>
+      <point x="322" y="-7" type="line"/>
+      <point x="555" y="-7"/>
+      <point x="611" y="25"/>
+      <point x="611" y="183" type="curve" smooth="yes"/>
+      <point x="611" y="710" type="line"/>
+      <point x="379" y="710" type="line"/>
+      <point x="379" y="268" type="line" smooth="yes"/>
+      <point x="379" y="187"/>
+      <point x="375" y="184"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EC4" format="2">
+  <advance width="556"/>
+  <unicode hex="1EC4"/>
+  <note>
+uni1EC4
+</note>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="472" y="0" name="ogonek"/>
+  <anchor x="294" y="1126" name="top"/>
+  <outline>
+    <contour>
+      <point x="512" y="710" type="line"/>
+      <point x="72" y="710" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="120" type="line"/>
+      <point x="210" y="120" type="line"/>
+      <point x="210" y="299" type="line"/>
+      <point x="452" y="299" type="line"/>
+      <point x="452" y="417" type="line"/>
+      <point x="210" y="417" type="line"/>
+      <point x="210" y="590" type="line"/>
+      <point x="512" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="1061" type="curve"/>
+      <point x="148" y="991" type="line"/>
+      <point x="148" y="991"/>
+      <point x="197" y="1022"/>
+      <point x="225" y="1022" type="curve" smooth="yes"/>
+      <point x="258" y="1022"/>
+      <point x="322" y="986"/>
+      <point x="364" y="986" type="curve" smooth="yes"/>
+      <point x="416" y="986"/>
+      <point x="484" y="1054"/>
+      <point x="484" y="1054" type="curve"/>
+      <point x="440" y="1124" type="line"/>
+      <point x="440" y="1124"/>
+      <point x="386" y="1090"/>
+      <point x="360" y="1090" type="curve" smooth="yes"/>
+      <point x="332" y="1090"/>
+      <point x="264" y="1126"/>
+      <point x="223" y="1126" type="curve" smooth="yes"/>
+      <point x="171" y="1126"/>
+      <point x="104" y="1061"/>
+    </contour>
+    <contour>
+      <point x="236" y="946" type="line"/>
+      <point x="105" y="769" type="line"/>
+      <point x="225" y="769" type="line"/>
+      <point x="294" y="867" type="line"/>
+      <point x="363" y="769" type="line"/>
+      <point x="483" y="769" type="line"/>
+      <point x="352" y="946" type="line"/>
+    </contour>
+  </outline>
+</glyph>

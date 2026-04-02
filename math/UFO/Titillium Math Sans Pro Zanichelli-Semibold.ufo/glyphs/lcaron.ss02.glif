@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.ss02" format="2">
+  <advance width="259"/>
+  <note>
+lcaron.ss02
+</note>
+  <anchor x="119" y="0" name="bottom"/>
+  <anchor x="119" y="365" name="center"/>
+  <anchor x="119" y="730" name="top"/>
+  <anchor x="215" y="730" name="topright"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="730" type="line"/>
+      <point x="68" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="590" type="curve"/>
+      <point x="289" y="567" type="line"/>
+      <point x="289" y="567"/>
+      <point x="339" y="616"/>
+      <point x="339" y="657" type="curve" smooth="yes"/>
+      <point x="339" y="685"/>
+      <point x="337" y="730"/>
+      <point x="337" y="730" type="curve"/>
+      <point x="254" y="730" type="line"/>
+      <point x="254" y="730"/>
+      <point x="257" y="680"/>
+      <point x="257" y="667" type="curve" smooth="yes"/>
+      <point x="257" y="647"/>
+      <point x="235" y="590"/>
+    </contour>
+  </outline>
+</glyph>

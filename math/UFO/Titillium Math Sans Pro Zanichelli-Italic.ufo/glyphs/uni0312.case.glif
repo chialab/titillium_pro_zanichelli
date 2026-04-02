@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0312.case" format="2">
+  <advance width="0"/>
+  <note>
+uni0312.case
+</note>
+  <outline>
+    <contour>
+      <point x="246" y="920" type="line"/>
+      <point x="111" y="809" type="line"/>
+      <point x="156" y="771" type="line"/>
+      <point x="276" y="889" type="line"/>
+    </contour>
+  </outline>
+</glyph>

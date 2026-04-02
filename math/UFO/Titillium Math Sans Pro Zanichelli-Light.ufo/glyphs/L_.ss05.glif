@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+L.ss05
+</note>
+  <anchor x="632" y="0" name="bottom"/>
+  <anchor x="471" y="350" name="center"/>
+  <anchor x="472" y="700" name="top"/>
+  <anchor x="638" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="843" type="line"/>
+      <point x="107" y="-169" type="line"/>
+      <point x="1115" y="-169" type="line"/>
+      <point x="1115" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="700" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="821" y="56" type="line"/>
+      <point x="503" y="56" type="line"/>
+      <point x="503" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

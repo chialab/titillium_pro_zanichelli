@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <advance width="571"/>
+  <unicode hex="0114"/>
+  <note>
+Ebreve
+</note>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="506" y="0" name="ogonek"/>
+  <anchor x="301" y="937" name="top"/>
+  <outline>
+    <contour>
+      <point x="542" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="185" type="line"/>
+      <point x="272" y="185" type="line"/>
+      <point x="272" y="276" type="line"/>
+      <point x="482" y="276" type="line"/>
+      <point x="482" y="446" type="line"/>
+      <point x="272" y="446" type="line"/>
+      <point x="272" y="525" type="line"/>
+      <point x="542" y="525" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="937" type="curve"/>
+      <point x="131" y="937" type="line"/>
+      <point x="131" y="817"/>
+      <point x="171" y="752"/>
+      <point x="301" y="752" type="curve" smooth="yes"/>
+      <point x="431" y="752"/>
+      <point x="471" y="817"/>
+      <point x="471" y="937" type="curve"/>
+      <point x="345" y="937" type="line"/>
+      <point x="342" y="897"/>
+      <point x="331" y="883"/>
+      <point x="301" y="883" type="curve" smooth="yes"/>
+      <point x="271" y="883"/>
+      <point x="260" y="897"/>
+    </contour>
+  </outline>
+</glyph>

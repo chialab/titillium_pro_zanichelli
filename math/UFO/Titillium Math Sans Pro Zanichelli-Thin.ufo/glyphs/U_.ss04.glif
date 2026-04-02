@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.ss04" format="2">
+  <advance width="1256"/>
+  <note>
+U.ss04
+</note>
+  <anchor x="628" y="0" name="bottom"/>
+  <anchor x="695" y="0" name="ogonek"/>
+  <anchor x="628" y="700" name="top"/>
+  <anchor x="929" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="628" y="-271" type="curve" smooth="yes"/>
+      <point x="273" y="-271"/>
+      <point x="24" y="-28"/>
+      <point x="24" y="333" type="curve" smooth="yes"/>
+      <point x="24" y="695"/>
+      <point x="273" y="938"/>
+      <point x="628" y="938" type="curve" smooth="yes"/>
+      <point x="983" y="938"/>
+      <point x="1232" y="695"/>
+      <point x="1232" y="333" type="curve" smooth="yes"/>
+      <point x="1232" y="-28"/>
+      <point x="983" y="-271"/>
+    </contour>
+    <contour>
+      <point x="397" y="700" type="line"/>
+      <point x="397" y="196" type="line" smooth="yes"/>
+      <point x="397" y="45"/>
+      <point x="482" y="-10"/>
+      <point x="627" y="-10" type="curve" smooth="yes"/>
+      <point x="772" y="-10"/>
+      <point x="859" y="46"/>
+      <point x="859" y="196" type="curve" smooth="yes"/>
+      <point x="859" y="700" type="line"/>
+      <point x="823" y="700" type="line"/>
+      <point x="823" y="196" type="line" smooth="yes"/>
+      <point x="823" y="69"/>
+      <point x="748" y="24"/>
+      <point x="627" y="24" type="curve" smooth="yes"/>
+      <point x="505" y="24"/>
+      <point x="433" y="70"/>
+      <point x="433" y="196" type="curve" smooth="yes"/>
+      <point x="433" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

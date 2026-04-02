@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss04" format="2">
+  <advance width="1256"/>
+  <note>
+K.ss04
+</note>
+  <anchor x="648" y="0" name="bottom"/>
+  <anchor x="643" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="628" y="-271" type="curve" smooth="yes"/>
+      <point x="273" y="-271"/>
+      <point x="24" y="-28"/>
+      <point x="24" y="333" type="curve" smooth="yes"/>
+      <point x="24" y="695"/>
+      <point x="273" y="938"/>
+      <point x="628" y="938" type="curve" smooth="yes"/>
+      <point x="983" y="938"/>
+      <point x="1232" y="695"/>
+      <point x="1232" y="333" type="curve" smooth="yes"/>
+      <point x="1232" y="-28"/>
+      <point x="983" y="-271"/>
+    </contour>
+    <contour>
+      <point x="456" y="700" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="329" type="line"/>
+      <point x="624" y="329" type="line"/>
+      <point x="854" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="653" y="348" type="line"/>
+      <point x="884" y="700" type="line"/>
+      <point x="843" y="700" type="line"/>
+      <point x="623" y="363" type="line"/>
+      <point x="492" y="363" type="line"/>
+      <point x="492" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

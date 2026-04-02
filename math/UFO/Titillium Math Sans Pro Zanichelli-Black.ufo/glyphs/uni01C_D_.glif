@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01CD" format="2">
+  <advance width="657"/>
+  <unicode hex="01CD"/>
+  <note>
+uni01CD
+</note>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="654" y="0" name="ogonek"/>
+  <anchor x="329" y="937" name="top"/>
+  <outline>
+    <contour>
+      <point x="316" y="528" type="line"/>
+      <point x="341" y="528" type="line"/>
+      <point x="377" y="290" type="line"/>
+      <point x="278" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="710" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="248" y="113" type="line"/>
+      <point x="401" y="113" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="503" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="937" type="line"/>
+      <point x="136" y="937" type="line"/>
+      <point x="217" y="757" type="line"/>
+      <point x="441" y="757" type="line"/>
+      <point x="522" y="937" type="line"/>
+      <point x="360" y="937" type="line"/>
+      <point x="329" y="854" type="line"/>
+    </contour>
+  </outline>
+</glyph>

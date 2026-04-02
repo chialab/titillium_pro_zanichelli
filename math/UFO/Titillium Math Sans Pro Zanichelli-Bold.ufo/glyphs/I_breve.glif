@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="282"/>
+  <unicode hex="012C"/>
+  <note>
+Ibreve
+</note>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="353" name="center"/>
+  <anchor x="210" y="0" name="ogonek"/>
+  <anchor x="140" y="920" name="top"/>
+  <outline>
+    <contour>
+      <point x="210" y="710" type="line"/>
+      <point x="72" y="710" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="929" type="curve"/>
+      <point x="-29" y="929" type="line"/>
+      <point x="-26" y="839"/>
+      <point x="24" y="763"/>
+      <point x="140" y="763" type="curve" smooth="yes"/>
+      <point x="256" y="763"/>
+      <point x="306" y="839"/>
+      <point x="309" y="929" type="curve"/>
+      <point x="209" y="929" type="line"/>
+      <point x="207" y="880"/>
+      <point x="185" y="853"/>
+      <point x="140" y="853" type="curve" smooth="yes"/>
+      <point x="95" y="853"/>
+      <point x="73" y="880"/>
+    </contour>
+  </outline>
+</glyph>

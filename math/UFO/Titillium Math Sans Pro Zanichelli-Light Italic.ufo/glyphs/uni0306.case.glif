@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0306.case" format="2">
+  <advance width="0"/>
+  <note>
+uni0306.case
+</note>
+  <outline>
+    <contour>
+      <point x="189" y="911" type="curve"/>
+      <point x="140" y="911" type="line"/>
+      <point x="130" y="838"/>
+      <point x="173" y="778"/>
+      <point x="259" y="778" type="curve" smooth="yes"/>
+      <point x="349" y="778"/>
+      <point x="405" y="838"/>
+      <point x="425" y="911" type="curve"/>
+      <point x="371" y="911" type="line"/>
+      <point x="357" y="862"/>
+      <point x="317" y="825"/>
+      <point x="262" y="825" type="curve" smooth="yes"/>
+      <point x="206" y="825"/>
+      <point x="181" y="862"/>
+    </contour>
+  </outline>
+</glyph>

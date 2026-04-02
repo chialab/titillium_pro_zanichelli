@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="778"/>
+  <unicode hex="0175"/>
+  <note>
+wcircumflex
+</note>
+  <anchor x="389" y="0" name="bottom"/>
+  <anchor x="389" y="732" name="top"/>
+  <outline>
+    <contour>
+      <point x="199" y="32" type="line"/>
+      <point x="70" y="500" type="line"/>
+      <point x="35" y="500" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="389" y="448" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="743" y="500" type="line"/>
+      <point x="708" y="500" type="line"/>
+      <point x="579" y="32" type="line"/>
+      <point x="559" y="32" type="line"/>
+      <point x="409" y="490" type="line"/>
+      <point x="369" y="490" type="line"/>
+      <point x="219" y="32" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="728" type="line"/>
+      <point x="253" y="613" type="line"/>
+      <point x="296" y="613" type="line"/>
+      <point x="389" y="698" type="line"/>
+      <point x="482" y="613" type="line"/>
+      <point x="525" y="613" type="line"/>
+      <point x="406" y="728" type="line"/>
+    </contour>
+  </outline>
+</glyph>

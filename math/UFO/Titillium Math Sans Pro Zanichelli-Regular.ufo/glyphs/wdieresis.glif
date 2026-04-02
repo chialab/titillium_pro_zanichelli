@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdieresis" format="2">
+  <advance width="763"/>
+  <unicode hex="1E85"/>
+  <note>
+wdieresis
+</note>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="380" y="711" name="top"/>
+  <outline>
+    <contour>
+      <point x="204" y="65" type="line"/>
+      <point x="107" y="500" type="line"/>
+      <point x="32" y="500" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="382" y="391" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="732" y="500" type="line"/>
+      <point x="657" y="500" type="line"/>
+      <point x="560" y="65" type="line"/>
+      <point x="535" y="65" type="line"/>
+      <point x="421" y="490" type="line"/>
+      <point x="343" y="490" type="line"/>
+      <point x="229" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="711" type="line"/>
+      <point x="243" y="624" type="line"/>
+      <point x="315" y="624" type="line"/>
+      <point x="315" y="711" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="711" type="line"/>
+      <point x="443" y="624" type="line"/>
+      <point x="516" y="624" type="line"/>
+      <point x="516" y="711" type="line"/>
+    </contour>
+  </outline>
+</glyph>

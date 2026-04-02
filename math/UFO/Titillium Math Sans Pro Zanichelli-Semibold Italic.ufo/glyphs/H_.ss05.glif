@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+H.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-230" type="line"/>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="817" type="line"/>
+      <point x="30" y="-143" type="line"/>
+      <point x="985" y="-143" type="line"/>
+      <point x="1189" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="705" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="471" y="313" type="line"/>
+      <point x="769" y="313" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="809" y="0" type="line"/>
+      <point x="959" y="705" type="line"/>
+      <point x="853" y="705" type="line"/>
+      <point x="790" y="407" type="line"/>
+      <point x="492" y="407" type="line"/>
+      <point x="555" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

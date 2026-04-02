@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss04" format="2">
+  <advance width="1266"/>
+  <note>
+Z.ss04
+</note>
+  <outline>
+    <contour>
+      <point x="959" y="511" type="line"/>
+      <point x="1001" y="710" type="line"/>
+      <point x="462" y="710" type="line"/>
+      <point x="421" y="520" type="line"/>
+      <point x="639" y="520" type="line"/>
+      <point x="634" y="495" type="line"/>
+      <point x="344" y="190" type="line"/>
+      <point x="304" y="0" type="line"/>
+      <point x="869" y="0" type="line"/>
+      <point x="909" y="190" type="line"/>
+      <point x="671" y="190" type="line"/>
+      <point x="677" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="207" type="curve" smooth="yes"/>
+      <point x="28" y="580"/>
+      <point x="345" y="938"/>
+      <point x="771" y="938" type="curve" smooth="yes"/>
+      <point x="1076" y="938"/>
+      <point x="1270" y="747"/>
+      <point x="1270" y="459" type="curve" smooth="yes"/>
+      <point x="1270" y="85"/>
+      <point x="946" y="-271"/>
+      <point x="524" y="-271" type="curve" smooth="yes"/>
+      <point x="225" y="-271"/>
+      <point x="28" y="-86"/>
+    </contour>
+  </outline>
+</glyph>

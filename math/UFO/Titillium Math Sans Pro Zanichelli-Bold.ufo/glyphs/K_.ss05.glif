@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+K.ss05
+</note>
+  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="607" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="808" type="line"/>
+      <point x="144" y="-134" type="line"/>
+      <point x="1078" y="-134" type="line"/>
+      <point x="1078" y="808" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="710" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="277" type="line"/>
+      <point x="599" y="287" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="882" y="0" type="line"/>
+      <point x="720" y="355" type="line"/>
+      <point x="878" y="710" type="line"/>
+      <point x="726" y="710" type="line"/>
+      <point x="599" y="407" type="line"/>
+      <point x="517" y="397" type="line"/>
+      <point x="517" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+H.ss05
+</note>
+  <anchor x="610" y="0" name="bottom"/>
+  <anchor x="611" y="567" name="center"/>
+  <anchor x="610" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="808" type="line"/>
+      <point x="144" y="-134" type="line"/>
+      <point x="1078" y="-134" type="line"/>
+      <point x="1078" y="808" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="710" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="299" type="line"/>
+      <point x="739" y="299" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="877" y="0" type="line"/>
+      <point x="877" y="710" type="line"/>
+      <point x="739" y="710" type="line"/>
+      <point x="739" y="419" type="line"/>
+      <point x="482" y="419" type="line"/>
+      <point x="482" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

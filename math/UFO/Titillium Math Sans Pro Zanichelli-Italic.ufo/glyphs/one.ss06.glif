@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.ss06" format="2">
+  <advance width="1183"/>
+  <note>
+one.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-230" type="line"/>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="660" type="line"/>
+      <point x="442" y="520" type="line"/>
+      <point x="467" y="459" type="line"/>
+      <point x="652" y="567" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="745" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

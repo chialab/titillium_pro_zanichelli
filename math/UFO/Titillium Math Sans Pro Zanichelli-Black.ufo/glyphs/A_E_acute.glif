@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="2">
+  <advance width="892"/>
+  <unicode hex="01FC"/>
+  <note>
+AEacute
+</note>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="527" y="980" name="top"/>
+  <outline>
+    <contour>
+      <point x="305" y="515" type="line"/>
+      <point x="365" y="515" type="line"/>
+      <point x="365" y="289" type="line"/>
+      <point x="269" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="700" type="line"/>
+      <point x="-6" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="240" y="110" type="line"/>
+      <point x="365" y="110" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="864" y="185" type="line"/>
+      <point x="591" y="185" type="line"/>
+      <point x="591" y="265" type="line"/>
+      <point x="804" y="265" type="line"/>
+      <point x="804" y="435" type="line"/>
+      <point x="591" y="435" type="line"/>
+      <point x="591" y="515" type="line"/>
+      <point x="864" y="515" type="line"/>
+      <point x="864" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="980" type="line"/>
+      <point x="354" y="860" type="line"/>
+      <point x="394" y="741" type="line"/>
+      <point x="700" y="820" type="line"/>
+    </contour>
+  </outline>
+</glyph>

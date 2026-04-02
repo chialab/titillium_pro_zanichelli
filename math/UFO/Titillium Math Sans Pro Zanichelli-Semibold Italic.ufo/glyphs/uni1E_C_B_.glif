@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECB" format="2">
+  <advance width="236"/>
+  <unicode hex="1ECB"/>
+  <note>
+uni1ECB
+</note>
+  <outline>
+    <contour>
+      <point x="237" y="584" type="line"/>
+      <point x="262" y="700" type="line"/>
+      <point x="161" y="700" type="line"/>
+      <point x="136" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1" y="-83" type="line"/>
+      <point x="-27" y="-202" type="line"/>
+      <point x="76" y="-202" type="line"/>
+      <point x="101" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="500" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="221" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

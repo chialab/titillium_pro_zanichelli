@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss02" format="2">
+  <advance width="254"/>
+  <note>
+lslash.ss02
+</note>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="125" y="365" name="center"/>
+  <anchor x="125" y="730" name="top"/>
+  <anchor x="210" y="730" name="topright"/>
+  <outline>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="142" y="350" type="line"/>
+      <point x="231" y="393" type="line"/>
+      <point x="216" y="424" type="line"/>
+      <point x="142" y="387" type="line"/>
+      <point x="142" y="730" type="line"/>
+      <point x="107" y="730" type="line"/>
+      <point x="107" y="373" type="line"/>
+      <point x="24" y="332" type="line"/>
+      <point x="37" y="301" type="line"/>
+      <point x="107" y="336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

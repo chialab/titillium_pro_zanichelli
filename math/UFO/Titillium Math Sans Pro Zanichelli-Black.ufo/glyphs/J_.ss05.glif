@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+J.ss05
+</note>
+  <anchor x="602" y="0" name="bottom"/>
+  <anchor x="616" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="870" type="line"/>
+      <point x="80" y="-196" type="line"/>
+      <point x="1142" y="-196" type="line"/>
+      <point x="1142" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="184" type="curve"/>
+      <point x="446" y="-7" type="line"/>
+      <point x="679" y="-7"/>
+      <point x="735" y="25"/>
+      <point x="735" y="183" type="curve" smooth="yes"/>
+      <point x="735" y="710" type="line"/>
+      <point x="503" y="710" type="line"/>
+      <point x="503" y="268" type="line" smooth="yes"/>
+      <point x="503" y="187"/>
+      <point x="499" y="184"/>
+    </contour>
+  </outline>
+</glyph>
