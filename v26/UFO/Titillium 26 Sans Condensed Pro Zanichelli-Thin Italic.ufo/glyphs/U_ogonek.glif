@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="558"/>
+  <unicode hex="0172"/>
+  <note>
+Uogonek
+</note>
+  <outline>
+    <contour>
+      <point x="209" y="-200" type="curve" smooth="yes"/>
+      <point x="234" y="-200"/>
+      <point x="270" y="-192"/>
+      <point x="270" y="-192" type="curve"/>
+      <point x="272" y="-159" type="line"/>
+      <point x="272" y="-159"/>
+      <point x="237" y="-166"/>
+      <point x="222" y="-166" type="curve" smooth="yes"/>
+      <point x="201" y="-166"/>
+      <point x="190" y="-151"/>
+      <point x="190" y="-130" type="curve" smooth="yes"/>
+      <point x="190" y="-97"/>
+      <point x="217" y="-74"/>
+      <point x="279" y="-8" type="curve"/>
+      <point x="379" y="1"/>
+      <point x="434" y="54"/>
+      <point x="465" y="198" type="curve" smooth="yes"/>
+      <point x="573" y="700" type="line"/>
+      <point x="538" y="700" type="line"/>
+      <point x="429" y="194" type="line" smooth="yes"/>
+      <point x="403" y="73"/>
+      <point x="350" y="24"/>
+      <point x="241" y="24" type="curve" smooth="yes"/>
+      <point x="132" y="24"/>
+      <point x="78" y="69"/>
+      <point x="105" y="195" type="curve" smooth="yes"/>
+      <point x="213" y="700" type="line"/>
+      <point x="178" y="700" type="line"/>
+      <point x="70" y="196" type="line" smooth="yes"/>
+      <point x="39" y="51"/>
+      <point x="112" y="-10"/>
+      <point x="241" y="-10" type="curve"/>
+      <point x="177" y="-68"/>
+      <point x="152" y="-100"/>
+      <point x="152" y="-139" type="curve" smooth="yes"/>
+      <point x="152" y="-180"/>
+      <point x="174" y="-200"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss05" format="2">
+  <advance width="1120"/>
+  <note>
+H.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-230" type="line"/>
+      <point x="1059" y="-230" type="line"/>
+      <point x="1059" y="904" type="line"/>
+      <point x="61" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="-196" type="line"/>
+      <point x="97" y="870" type="line"/>
+      <point x="1023" y="870" type="line"/>
+      <point x="1023" y="-196" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="339" type="line"/>
+      <point x="740" y="339" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="776" y="700" type="line"/>
+      <point x="740" y="700" type="line"/>
+      <point x="740" y="373" type="line"/>
+      <point x="380" y="373" type="line"/>
+      <point x="380" y="700" type="line"/>
+      <point x="344" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

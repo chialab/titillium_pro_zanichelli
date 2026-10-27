@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="575"/>
+  <unicode hex="0147"/>
+  <note>
+Ncaron
+</note>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="219" y="642" type="line"/>
+      <point x="246" y="642" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="596" y="700" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="399" y="58" type="line"/>
+      <point x="372" y="58" type="line"/>
+      <point x="295" y="700" type="line"/>
+      <point x="171" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="783" type="line"/>
+      <point x="445" y="783" type="line"/>
+      <point x="577" y="912" type="line"/>
+      <point x="510" y="912" type="line"/>
+      <point x="420" y="827" type="line"/>
+      <point x="367" y="912" type="line"/>
+      <point x="311" y="912" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

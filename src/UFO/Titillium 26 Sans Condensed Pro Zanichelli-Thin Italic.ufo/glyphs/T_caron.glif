@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="465"/>
+  <unicode hex="0164"/>
+  <note>
+Tcaron
+</note>
+  <outline>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="338" y="666" type="line"/>
+      <point x="540" y="666" type="line"/>
+      <point x="548" y="700" type="line"/>
+      <point x="109" y="700" type="line"/>
+      <point x="101" y="666" type="line"/>
+      <point x="303" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="793" type="line"/>
+      <point x="365" y="793" type="line"/>
+      <point x="494" y="908" type="line"/>
+      <point x="449" y="908" type="line"/>
+      <point x="350" y="823" type="line"/>
+      <point x="287" y="908" type="line"/>
+      <point x="250" y="908" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

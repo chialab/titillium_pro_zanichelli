@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent" format="2">
+  <advance width="515"/>
+  <unicode hex="0116"/>
+  <note>
+Edotaccent
+</note>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="456" y="0" name="ogonek"/>
+  <anchor x="271" y="911" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="185" type="line"/>
+      <point x="249" y="185" type="line"/>
+      <point x="249" y="276" type="line"/>
+      <point x="439" y="276" type="line"/>
+      <point x="439" y="446" type="line"/>
+      <point x="249" y="446" type="line"/>
+      <point x="249" y="525" type="line"/>
+      <point x="493" y="525" type="line"/>
+      <point x="493" y="710" type="line"/>
+      <point x="32" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="757" type="line"/>
+      <point x="366" y="757" type="line"/>
+      <point x="366" y="911" type="line"/>
+      <point x="177" y="911" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

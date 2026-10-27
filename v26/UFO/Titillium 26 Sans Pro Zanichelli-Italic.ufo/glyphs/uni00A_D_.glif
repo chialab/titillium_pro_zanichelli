@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00AD" format="2">
+  <advance width="0"/>
+  <unicode hex="00AD"/>
+  <note>
+uni00AD
+</note>
+  <outline>
+    <contour>
+      <point x="-154" y="250" type="line"/>
+      <point x="156" y="250" type="line"/>
+      <point x="170" y="320" type="line"/>
+      <point x="-140" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 10:37:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

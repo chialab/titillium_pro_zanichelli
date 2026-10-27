@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+Z.ss05
+</note>
+  <anchor x="608" y="0" name="bottom"/>
+  <anchor x="549" y="350" name="center"/>
+  <anchor x="601" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="843" type="line"/>
+      <point x="107" y="-169" type="line"/>
+      <point x="1115" y="-169" type="line"/>
+      <point x="1115" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="91" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="829" y="56" type="line"/>
+      <point x="442" y="56" type="line"/>
+      <point x="442" y="81" type="line"/>
+      <point x="829" y="609" type="line"/>
+      <point x="829" y="700" type="line"/>
+      <point x="381" y="700" type="line"/>
+      <point x="381" y="645" type="line"/>
+      <point x="767" y="645" type="line"/>
+      <point x="767" y="620" type="line"/>
+    </contour>
+  </outline>
+</glyph>

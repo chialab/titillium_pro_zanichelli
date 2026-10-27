@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss04" format="2">
+  <advance width="1119"/>
+  <note>
+four.ss04
+</note>
+  <outline>
+    <contour>
+      <point x="559" y="-271" type="curve" smooth="yes"/>
+      <point x="882" y="-271"/>
+      <point x="1108" y="-27"/>
+      <point x="1108" y="333" type="curve" smooth="yes"/>
+      <point x="1108" y="694"/>
+      <point x="882" y="938"/>
+      <point x="559" y="938" type="curve" smooth="yes"/>
+      <point x="236" y="938"/>
+      <point x="11" y="694"/>
+      <point x="11" y="333" type="curve" smooth="yes"/>
+      <point x="11" y="-27"/>
+      <point x="236" y="-271"/>
+    </contour>
+    <contour>
+      <point x="563" y="10" type="line"/>
+      <point x="563" y="90" type="line"/>
+      <point x="319" y="90" type="line"/>
+      <point x="319" y="252" type="line"/>
+      <point x="400" y="675" type="line"/>
+      <point x="628" y="675" type="line"/>
+      <point x="502" y="278" type="line"/>
+      <point x="568" y="278" type="line"/>
+      <point x="586" y="395" type="line"/>
+      <point x="760" y="395" type="line"/>
+      <point x="760" y="278" type="line"/>
+      <point x="782" y="278" type="line"/>
+      <point x="782" y="90" type="line"/>
+      <point x="760" y="90" type="line"/>
+      <point x="760" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

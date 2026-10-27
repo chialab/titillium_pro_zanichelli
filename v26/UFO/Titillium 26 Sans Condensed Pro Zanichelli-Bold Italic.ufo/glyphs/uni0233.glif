@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0233" format="2">
+  <advance width="430"/>
+  <unicode hex="0233"/>
+  <note>
+uni0233
+</note>
+  <outline>
+    <contour>
+      <point x="27" y="-230" type="line"/>
+      <point x="166" y="-230" type="line"/>
+      <point x="478" y="510" type="line"/>
+      <point x="342" y="510" type="line"/>
+      <point x="194" y="114" type="line"/>
+      <point x="171" y="114" type="line"/>
+      <point x="199" y="510" type="line"/>
+      <point x="69" y="510" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="587" type="line"/>
+      <point x="409" y="587" type="line"/>
+      <point x="431" y="687" type="line"/>
+      <point x="170" y="687" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

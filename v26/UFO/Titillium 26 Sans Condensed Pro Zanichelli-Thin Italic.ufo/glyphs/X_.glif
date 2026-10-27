@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="501"/>
+  <unicode hex="0058"/>
+  <note>
+X
+</note>
+  <outline>
+    <contour>
+      <point x="-30" y="0" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="266" y="325" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="292" y="348" type="line"/>
+      <point x="570" y="700" type="line"/>
+      <point x="529" y="700" type="line"/>
+      <point x="279" y="379" type="line"/>
+      <point x="166" y="700" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="253" y="356" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-17 12:58:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

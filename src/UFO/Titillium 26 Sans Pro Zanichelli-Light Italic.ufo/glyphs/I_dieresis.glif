@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="237"/>
+  <unicode hex="00CF"/>
+  <note>
+Idieresis
+</note>
+  <outline>
+    <contour>
+      <point x="167" y="811" type="line"/>
+      <point x="183" y="887" type="line"/>
+      <point x="123" y="887" type="line"/>
+      <point x="107" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="700" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="245" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="887" type="line"/>
+      <point x="301" y="811" type="line"/>
+      <point x="362" y="811" type="line"/>
+      <point x="377" y="887" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="2">
+  <advance width="465"/>
+  <unicode hex="0118"/>
+  <note>
+Eogonek
+</note>
+  <outline>
+    <contour>
+      <point x="259" y="-204" type="curve" smooth="yes"/>
+      <point x="289" y="-204"/>
+      <point x="329" y="-195"/>
+      <point x="329" y="-195" type="curve"/>
+      <point x="333" y="-147" type="line"/>
+      <point x="333" y="-147"/>
+      <point x="300" y="-153"/>
+      <point x="287" y="-153" type="curve" smooth="yes"/>
+      <point x="267" y="-153"/>
+      <point x="257" y="-140"/>
+      <point x="257" y="-120" type="curve" smooth="yes"/>
+      <point x="257" y="-92"/>
+      <point x="283" y="-67"/>
+      <point x="347" y="0" type="curve"/>
+      <point x="373" y="0" type="line"/>
+      <point x="384" y="55" type="line"/>
+      <point x="95" y="55" type="line"/>
+      <point x="153" y="330" type="line"/>
+      <point x="391" y="330" type="line"/>
+      <point x="402" y="384" type="line"/>
+      <point x="165" y="384" type="line"/>
+      <point x="221" y="645" type="line"/>
+      <point x="510" y="645" type="line"/>
+      <point x="522" y="700" type="line"/>
+      <point x="171" y="700" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="229" y="-55"/>
+      <point x="196" y="-95"/>
+      <point x="196" y="-141" type="curve" smooth="yes"/>
+      <point x="196" y="-182"/>
+      <point x="222" y="-204"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

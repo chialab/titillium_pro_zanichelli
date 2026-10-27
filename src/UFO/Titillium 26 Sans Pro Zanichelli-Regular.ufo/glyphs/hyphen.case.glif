@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.case" format="2">
+  <advance width="420"/>
+  <note>
+hyphen.case
+</note>
+  <outline>
+    <contour>
+      <point x="55" y="290" type="line"/>
+      <point x="365" y="290" type="line"/>
+      <point x="365" y="360" type="line"/>
+      <point x="55" y="360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 10:37:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

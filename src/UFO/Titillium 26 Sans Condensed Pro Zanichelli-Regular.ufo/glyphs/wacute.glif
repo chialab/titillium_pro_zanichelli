@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wacute" format="2">
+  <advance width="669"/>
+  <unicode hex="1E83"/>
+  <note>
+wacute
+</note>
+  <anchor x="334" y="0" name="bottom"/>
+  <anchor x="345" y="740" name="top"/>
+  <outline>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="335" y="391" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="648" y="500" type="line"/>
+      <point x="573" y="500" type="line"/>
+      <point x="492" y="65" type="line"/>
+      <point x="470" y="65" type="line"/>
+      <point x="374" y="490" type="line"/>
+      <point x="297" y="490" type="line"/>
+      <point x="200" y="65" type="line"/>
+      <point x="178" y="65" type="line"/>
+      <point x="97" y="500" type="line"/>
+      <point x="22" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="591" type="line"/>
+      <point x="457" y="676" type="line"/>
+      <point x="432" y="740" type="line"/>
+      <point x="232" y="642" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

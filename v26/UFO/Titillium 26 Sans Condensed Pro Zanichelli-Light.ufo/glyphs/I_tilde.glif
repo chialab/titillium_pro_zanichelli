@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Itilde" format="2">
+  <advance width="210"/>
+  <unicode hex="0128"/>
+  <note>
+Itilde
+</note>
+  <anchor x="104" y="0" name="bottom"/>
+  <anchor x="104" y="353" name="center"/>
+  <anchor x="135" y="0" name="ogonek"/>
+  <anchor x="104" y="897" name="top"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="135" y="700" type="line"/>
+      <point x="73" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="799" type="curve" smooth="yes"/>
+      <point x="203" y="799"/>
+      <point x="249" y="850"/>
+      <point x="254" y="856" type="curve"/>
+      <point x="230" y="888" type="line"/>
+      <point x="230" y="888"/>
+      <point x="187" y="849"/>
+      <point x="170" y="849" type="curve" smooth="yes"/>
+      <point x="143" y="849"/>
+      <point x="80" y="897"/>
+      <point x="44" y="897" type="curve" smooth="yes"/>
+      <point x="9" y="897"/>
+      <point x="-45" y="839"/>
+      <point x="-45" y="839" type="curve"/>
+      <point x="-21" y="807" type="line"/>
+      <point x="-21" y="807"/>
+      <point x="24" y="849"/>
+      <point x="43" y="849" type="curve" smooth="yes"/>
+      <point x="72" y="849"/>
+      <point x="134" y="799"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

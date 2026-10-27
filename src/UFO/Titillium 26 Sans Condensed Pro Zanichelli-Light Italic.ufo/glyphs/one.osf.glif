@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="302"/>
+  <note>
+one.pnum
+</note>
+  <outline>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="285" y="500" type="line"/>
+      <point x="233" y="500" type="line"/>
+      <point x="44" y="388" type="line"/>
+      <point x="58" y="342" type="line"/>
+      <point x="214" y="436" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

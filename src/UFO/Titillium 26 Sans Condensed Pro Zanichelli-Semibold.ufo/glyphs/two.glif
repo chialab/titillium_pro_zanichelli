@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two" format="2">
+  <advance width="452"/>
+  <unicode hex="0032"/>
+  <note>
+two
+</note>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="417" y="93" type="line"/>
+      <point x="156" y="93" type="line"/>
+      <point x="279" y="240" type="line" smooth="yes"/>
+      <point x="363" y="340"/>
+      <point x="405" y="395"/>
+      <point x="405" y="493" type="curve" smooth="yes"/>
+      <point x="405" y="617"/>
+      <point x="346" y="676"/>
+      <point x="214" y="676" type="curve" smooth="yes"/>
+      <point x="126" y="676"/>
+      <point x="39" y="647"/>
+      <point x="39" y="647" type="curve"/>
+      <point x="46" y="563" type="line"/>
+      <point x="46" y="563"/>
+      <point x="127" y="581"/>
+      <point x="189" y="581" type="curve" smooth="yes"/>
+      <point x="263" y="581"/>
+      <point x="296" y="557"/>
+      <point x="296" y="484" type="curve" smooth="yes"/>
+      <point x="296" y="408"/>
+      <point x="248" y="358"/>
+      <point x="178" y="269" type="curve" smooth="yes"/>
+      <point x="36" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

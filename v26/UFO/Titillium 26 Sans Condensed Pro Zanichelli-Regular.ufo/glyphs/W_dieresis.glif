@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance width="787"/>
+  <unicode hex="1E84"/>
+  <note>
+Wdieresis
+</note>
+  <anchor x="393" y="0" name="bottom"/>
+  <anchor x="393" y="891" name="top"/>
+  <outline>
+    <contour>
+      <point x="149" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="393" y="590" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="763" y="700" type="line"/>
+      <point x="687" y="700" type="line"/>
+      <point x="588" y="74" type="line"/>
+      <point x="561" y="74" type="line"/>
+      <point x="440" y="685" type="line"/>
+      <point x="350" y="685" type="line"/>
+      <point x="230" y="74" type="line"/>
+      <point x="203" y="74" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="24" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="804" type="line"/>
+      <point x="339" y="804" type="line"/>
+      <point x="339" y="891" type="line"/>
+      <point x="266" y="891" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="804" type="line"/>
+      <point x="520" y="804" type="line"/>
+      <point x="520" y="891" type="line"/>
+      <point x="447" y="891" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

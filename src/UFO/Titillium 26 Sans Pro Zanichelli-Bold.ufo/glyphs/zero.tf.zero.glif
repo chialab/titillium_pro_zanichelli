@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf.zero" format="2">
+  <advance width="560"/>
+  <note>
+zero.zero
+</note>
+  <outline>
+    <contour>
+      <point x="280" y="-12" type="curve" smooth="yes"/>
+      <point x="444" y="-12"/>
+      <point x="536" y="76"/>
+      <point x="536" y="326" type="curve" smooth="yes"/>
+      <point x="536" y="586"/>
+      <point x="444" y="682"/>
+      <point x="280" y="682" type="curve" smooth="yes"/>
+      <point x="116" y="682"/>
+      <point x="24" y="586"/>
+      <point x="24" y="326" type="curve" smooth="yes"/>
+      <point x="24" y="76"/>
+      <point x="116" y="-12"/>
+    </contour>
+    <contour>
+      <point x="281" y="108" type="curve" smooth="yes"/>
+      <point x="201" y="108"/>
+      <point x="164" y="164"/>
+      <point x="164" y="326" type="curve" smooth="yes"/>
+      <point x="164" y="508"/>
+      <point x="201" y="562"/>
+      <point x="281" y="562" type="curve" smooth="yes"/>
+      <point x="361" y="562"/>
+      <point x="396" y="508"/>
+      <point x="396" y="326" type="curve" smooth="yes"/>
+      <point x="396" y="164"/>
+      <point x="361" y="108"/>
+    </contour>
+    <contour>
+      <point x="267" y="239" type="line"/>
+      <point x="353" y="392" type="line"/>
+      <point x="295" y="430" type="line"/>
+      <point x="209" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 08:20:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute" format="2">
+  <advance width="498"/>
+  <unicode hex="00FD"/>
+  <note>
+yacute
+</note>
+  <outline>
+    <contour>
+      <point x="82" y="-200" type="line"/>
+      <point x="303" y="-200" type="line"/>
+      <point x="542" y="520" type="line"/>
+      <point x="332" y="520" type="line"/>
+      <point x="238" y="187" type="line"/>
+      <point x="220" y="187" type="line"/>
+      <point x="263" y="520" type="line"/>
+      <point x="53" y="520" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="560" type="line"/>
+      <point x="489" y="640" type="line"/>
+      <point x="440" y="801" type="line"/>
+      <point x="156" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

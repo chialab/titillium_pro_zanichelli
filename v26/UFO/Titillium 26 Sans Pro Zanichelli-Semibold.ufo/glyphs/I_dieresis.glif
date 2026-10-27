@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="264"/>
+  <unicode hex="00CF"/>
+  <note>
+Idieresis
+</note>
+  <anchor x="132" y="0" name="bottom"/>
+  <anchor x="132" y="353" name="center"/>
+  <anchor x="186" y="0" name="ogonek"/>
+  <anchor x="132" y="899" name="top"/>
+  <outline>
+    <contour>
+      <point x="186" y="705" type="line"/>
+      <point x="79" y="705" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-22" y="900" type="line"/>
+      <point x="-22" y="791" type="line"/>
+      <point x="77" y="791" type="line"/>
+      <point x="77" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="900" type="line"/>
+      <point x="186" y="791" type="line"/>
+      <point x="285" y="791" type="line"/>
+      <point x="285" y="900" type="line"/>
+    </contour>
+  </outline>
+</glyph>

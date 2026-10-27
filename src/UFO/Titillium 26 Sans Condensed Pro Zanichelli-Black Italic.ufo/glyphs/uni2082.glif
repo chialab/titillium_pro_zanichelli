@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2082" format="2">
+  <advance width="272"/>
+  <unicode hex="2082"/>
+  <note>
+uni2082
+</note>
+  <outline>
+    <contour>
+      <point x="-59" y="-124" type="line"/>
+      <point x="184" y="-124" type="line"/>
+      <point x="205" y="-14" type="line"/>
+      <point x="105" y="-14" type="line"/>
+      <point x="151" y="12" type="line" smooth="yes"/>
+      <point x="200" y="41"/>
+      <point x="231" y="74"/>
+      <point x="231" y="131" type="curve" smooth="yes"/>
+      <point x="231" y="178"/>
+      <point x="197" y="216"/>
+      <point x="124" y="216" type="curve" smooth="yes"/>
+      <point x="95" y="216"/>
+      <point x="43" y="210"/>
+      <point x="5" y="206" type="curve"/>
+      <point x="-12" y="92" type="line"/>
+      <point x="8" y="95"/>
+      <point x="37" y="98"/>
+      <point x="57" y="98" type="curve" smooth="yes"/>
+      <point x="75" y="98"/>
+      <point x="78" y="96"/>
+      <point x="78" y="84" type="curve" smooth="yes"/>
+      <point x="78" y="64"/>
+      <point x="67" y="51"/>
+      <point x="34" y="28" type="curve" smooth="yes"/>
+      <point x="-40" y="-24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

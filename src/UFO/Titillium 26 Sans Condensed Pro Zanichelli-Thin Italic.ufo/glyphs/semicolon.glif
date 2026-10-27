@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="215"/>
+  <unicode hex="003B"/>
+  <note>
+semicolon
+</note>
+  <outline>
+    <contour>
+      <point x="-17" y="-123" type="line"/>
+      <point x="13" y="-123" type="line"/>
+      <point x="104" y="80" type="line"/>
+      <point x="64" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="340" type="line"/>
+      <point x="139" y="340" type="line"/>
+      <point x="157" y="420" type="line"/>
+      <point x="118" y="420" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

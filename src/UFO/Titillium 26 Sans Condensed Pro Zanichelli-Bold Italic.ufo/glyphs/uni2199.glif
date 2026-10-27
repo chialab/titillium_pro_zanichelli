@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2199" format="2">
+  <advance width="560"/>
+  <unicode hex="2199"/>
+  <note>
+uni2199
+</note>
+  <outline>
+    <contour>
+      <point x="-24" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="378" y="113" type="line"/>
+      <point x="205" y="110" type="line"/>
+      <point x="300" y="183" type="line"/>
+      <point x="584" y="438" type="line"/>
+      <point x="491" y="549" type="line"/>
+      <point x="216" y="286" type="line"/>
+      <point x="130" y="186" type="line"/>
+      <point x="176" y="386" type="line"/>
+      <point x="58" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

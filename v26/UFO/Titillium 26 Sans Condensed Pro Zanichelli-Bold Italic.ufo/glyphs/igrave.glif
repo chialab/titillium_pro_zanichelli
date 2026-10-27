@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="229"/>
+  <unicode hex="00EC"/>
+  <note>
+igrave
+</note>
+  <outline>
+    <contour>
+      <point x="-6" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="233" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="554" type="line"/>
+      <point x="325" y="641" type="line"/>
+      <point x="94" y="743" type="line"/>
+      <point x="50" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

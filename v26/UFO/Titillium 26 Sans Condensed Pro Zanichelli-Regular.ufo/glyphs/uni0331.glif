@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0331" format="2">
+  <advance width="0"/>
+  <unicode hex="0331"/>
+  <note>
+uni0331
+</note>
+  <anchor x="164" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="40" y="-141" type="line"/>
+      <point x="286" y="-141" type="line"/>
+      <point x="286" y="-82" type="line"/>
+      <point x="40" y="-82" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

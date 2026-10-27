@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni277A" format="2">
+  <advance width="790"/>
+  <unicode hex="277A"/>
+  <note>
+uni277A
+</note>
+  <outline>
+    <contour>
+      <point x="338" y="-40" type="curve" smooth="yes"/>
+      <point x="573" y="-40"/>
+      <point x="783" y="184"/>
+      <point x="783" y="432" type="curve" smooth="yes"/>
+      <point x="783" y="611"/>
+      <point x="672" y="740"/>
+      <point x="491" y="740" type="curve" smooth="yes"/>
+      <point x="252" y="740"/>
+      <point x="48" y="515"/>
+      <point x="48" y="269" type="curve" smooth="yes"/>
+      <point x="48" y="91"/>
+      <point x="157" y="-40"/>
+    </contour>
+    <contour>
+      <point x="373" y="163" type="curve" smooth="yes"/>
+      <point x="319" y="163"/>
+      <point x="255" y="178"/>
+      <point x="255" y="178" type="curve"/>
+      <point x="284" y="268" type="line"/>
+      <point x="284" y="268"/>
+      <point x="343" y="261"/>
+      <point x="379" y="261" type="curve" smooth="yes"/>
+      <point x="394" y="261"/>
+      <point x="409" y="270"/>
+      <point x="409" y="301" type="curve" smooth="yes"/>
+      <point x="409" y="316"/>
+      <point x="404" y="320"/>
+      <point x="396" y="320" type="curve" smooth="yes"/>
+      <point x="384" y="320"/>
+      <point x="361" y="312"/>
+      <point x="361" y="312" type="curve"/>
+      <point x="291" y="324" type="line"/>
+      <point x="347" y="531" type="line"/>
+      <point x="557" y="531" type="line"/>
+      <point x="537" y="438" type="line"/>
+      <point x="417" y="438" type="line"/>
+      <point x="400" y="393" type="line"/>
+      <point x="400" y="393"/>
+      <point x="430" y="400"/>
+      <point x="451" y="400" type="curve" smooth="yes"/>
+      <point x="502" y="400"/>
+      <point x="529" y="373"/>
+      <point x="529" y="326" type="curve" smooth="yes"/>
+      <point x="529" y="233"/>
+      <point x="478" y="163"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

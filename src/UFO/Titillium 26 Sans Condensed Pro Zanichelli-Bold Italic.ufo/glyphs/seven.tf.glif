@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf" format="2">
+  <advance width="500"/>
+  <note>
+seven.tf
+</note>
+  <outline>
+    <contour>
+      <point x="174" y="-16" type="line"/>
+      <point x="501" y="521" type="line"/>
+      <point x="533" y="670" type="line"/>
+      <point x="127" y="670" type="line"/>
+      <point x="101" y="547" type="line"/>
+      <point x="365" y="547" type="line"/>
+      <point x="359" y="522" type="line"/>
+      <point x="65" y="48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

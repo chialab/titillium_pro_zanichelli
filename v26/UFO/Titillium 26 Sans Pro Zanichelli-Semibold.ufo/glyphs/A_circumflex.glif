@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflex" format="2">
+  <advance width="607"/>
+  <unicode hex="00C2"/>
+  <note>
+Acircumflex
+</note>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="586" y="0" name="ogonek"/>
+  <anchor x="302" y="925" name="top"/>
+  <outline>
+    <contour>
+      <point x="287" y="612" type="line"/>
+      <point x="317" y="612" type="line"/>
+      <point x="409" y="266" type="line"/>
+      <point x="195" y="266" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="705" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="171" y="173" type="line"/>
+      <point x="433" y="173" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="398" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="930" type="line"/>
+      <point x="134" y="773" type="line"/>
+      <point x="231" y="773" type="line"/>
+      <point x="303" y="865" type="line"/>
+      <point x="375" y="773" type="line"/>
+      <point x="472" y="773" type="line"/>
+      <point x="349" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

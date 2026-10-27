@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="492"/>
+  <unicode hex="2264"/>
+  <note>
+lessequal
+</note>
+  <outline>
+    <contour>
+      <point x="433" y="160" type="line"/>
+      <point x="433" y="219" type="line"/>
+      <point x="131" y="345" type="line"/>
+      <point x="433" y="470" type="line"/>
+      <point x="433" y="529" type="line"/>
+      <point x="57" y="373" type="line"/>
+      <point x="57" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="45" type="line"/>
+      <point x="433" y="45" type="line"/>
+      <point x="433" y="101" type="line"/>
+      <point x="57" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

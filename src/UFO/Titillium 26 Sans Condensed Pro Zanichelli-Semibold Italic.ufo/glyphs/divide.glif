@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="491"/>
+  <unicode hex="00F7"/>
+  <note>
+divide
+</note>
+  <outline>
+    <contour>
+      <point x="49" y="236" type="line"/>
+      <point x="435" y="236" type="line"/>
+      <point x="454" y="327" type="line"/>
+      <point x="68" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="53" type="line"/>
+      <point x="255" y="53" type="line"/>
+      <point x="278" y="163" type="line"/>
+      <point x="174" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="399" type="line"/>
+      <point x="329" y="399" type="line"/>
+      <point x="351" y="509" type="line"/>
+      <point x="248" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="435"/>
+  <unicode hex="0139"/>
+  <note>
+Lacute
+</note>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="127" y="350" name="center"/>
+  <anchor x="129" y="943" name="top"/>
+  <anchor x="270" y="710" name="topright"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="429" y="122" type="line"/>
+      <point x="195" y="122" type="line"/>
+      <point x="195" y="710" type="line"/>
+      <point x="57" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="763" type="line"/>
+      <point x="274" y="837" type="line"/>
+      <point x="237" y="952" type="line"/>
+      <point x="-16" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

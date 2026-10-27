@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+A.ss05
+</note>
+  <anchor x="609" y="0" name="bottom"/>
+  <anchor x="884" y="0" name="ogonek"/>
+  <anchor x="609" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="-230" type="line"/>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="843" type="line"/>
+      <point x="107" y="-169" type="line"/>
+      <point x="1115" y="-169" type="line"/>
+      <point x="1115" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="700" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="457" y="198" type="line"/>
+      <point x="760" y="198" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="884" y="0" type="line"/>
+      <point x="668" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="744" y="253" type="line"/>
+      <point x="474" y="253" type="line"/>
+      <point x="594" y="642" type="line"/>
+      <point x="624" y="642" type="line"/>
+    </contour>
+  </outline>
+</glyph>

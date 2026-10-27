@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss02" format="2">
+  <advance width="272"/>
+  <note>
+lslash.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="177" y="313" type="line"/>
+      <point x="293" y="357" type="line"/>
+      <point x="277" y="416" type="line"/>
+      <point x="192" y="385" type="line"/>
+      <point x="265" y="730" type="line"/>
+      <point x="191" y="730" type="line"/>
+      <point x="115" y="369" type="line"/>
+      <point x="23" y="332" type="line"/>
+      <point x="39" y="274" type="line"/>
+      <point x="100" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

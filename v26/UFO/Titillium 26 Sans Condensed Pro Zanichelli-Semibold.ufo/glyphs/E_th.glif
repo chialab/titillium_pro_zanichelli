@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="588"/>
+  <unicode hex="00D0"/>
+  <note>
+Eth
+</note>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="139" y="354" name="center"/>
+  <anchor x="289" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="297" y="0" type="line" smooth="yes"/>
+      <point x="502" y="0"/>
+      <point x="549" y="146"/>
+      <point x="549" y="360" type="curve" smooth="yes"/>
+      <point x="549" y="590"/>
+      <point x="493" y="705"/>
+      <point x="293" y="705" type="curve" smooth="yes"/>
+      <point x="87" y="705" type="line"/>
+      <point x="87" y="400" type="line"/>
+      <point x="29" y="400" type="line"/>
+      <point x="29" y="310" type="line"/>
+      <point x="87" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="93" type="curve" smooth="yes"/>
+      <point x="194" y="93" type="line"/>
+      <point x="194" y="310" type="line"/>
+      <point x="336" y="310" type="line"/>
+      <point x="336" y="400" type="line"/>
+      <point x="194" y="400" type="line"/>
+      <point x="194" y="612" type="line"/>
+      <point x="296" y="612" type="line" smooth="yes"/>
+      <point x="407" y="612"/>
+      <point x="439" y="532"/>
+      <point x="439" y="360" type="curve" smooth="yes"/>
+      <point x="439" y="194"/>
+      <point x="407" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="492"/>
+  <unicode hex="00B1"/>
+  <note>
+plusminus
+</note>
+  <outline>
+    <contour>
+      <point x="218" y="175" type="line"/>
+      <point x="274" y="175" type="line"/>
+      <point x="274" y="324" type="line"/>
+      <point x="445" y="324" type="line"/>
+      <point x="445" y="380" type="line"/>
+      <point x="274" y="380" type="line"/>
+      <point x="274" y="529" type="line"/>
+      <point x="218" y="529" type="line"/>
+      <point x="218" y="380" type="line"/>
+      <point x="47" y="380" type="line"/>
+      <point x="47" y="324" type="line"/>
+      <point x="218" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="45" type="line"/>
+      <point x="445" y="45" type="line"/>
+      <point x="445" y="101" type="line"/>
+      <point x="47" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

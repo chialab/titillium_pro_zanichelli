@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="490"/>
+  <unicode hex="0125"/>
+  <note>
+hcircumflex
+</note>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="178" y="633" name="center"/>
+  <anchor x="116" y="956" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="390" type="line"/>
+      <point x="182" y="390"/>
+      <point x="219" y="406"/>
+      <point x="252" y="406" type="curve" smooth="yes"/>
+      <point x="304" y="406"/>
+      <point x="312" y="357"/>
+      <point x="312" y="282" type="curve" smooth="yes"/>
+      <point x="312" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="285" type="line" smooth="yes"/>
+      <point x="446" y="437"/>
+      <point x="413" y="526"/>
+      <point x="286" y="526" type="curve" smooth="yes"/>
+      <point x="241" y="526"/>
+      <point x="182" y="490"/>
+      <point x="182" y="490" type="curve"/>
+      <point x="182" y="730" type="line"/>
+      <point x="48" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="-63" y="789" type="line"/>
+      <point x="55" y="789" type="line"/>
+      <point x="116" y="887" type="line"/>
+      <point x="177" y="789" type="line"/>
+      <point x="295" y="789" type="line"/>
+      <point x="173" y="966" type="line"/>
+      <point x="59" y="966" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

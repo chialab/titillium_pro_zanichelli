@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="177"/>
+  <unicode hex="012F"/>
+  <note>
+iogonek
+</note>
+  <anchor x="89" y="0" name="bottom"/>
+  <anchor x="107" y="0" name="ogonek"/>
+  <anchor x="89" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="72" y="-200" type="curve" smooth="yes"/>
+      <point x="96" y="-200"/>
+      <point x="129" y="-192"/>
+      <point x="129" y="-192" type="curve"/>
+      <point x="126" y="-159" type="line"/>
+      <point x="126" y="-159"/>
+      <point x="92" y="-166"/>
+      <point x="77" y="-166" type="curve" smooth="yes"/>
+      <point x="52" y="-166"/>
+      <point x="35" y="-142"/>
+      <point x="35" y="-116" type="curve" smooth="yes"/>
+      <point x="35" y="-84"/>
+      <point x="107" y="0"/>
+      <point x="107" y="0" type="curve"/>
+      <point x="107" y="500" type="line"/>
+      <point x="72" y="500" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="60" y="-17"/>
+      <point x="-1" y="-80"/>
+      <point x="-1" y="-118" type="curve" smooth="yes"/>
+      <point x="-1" y="-168"/>
+      <point x="30" y="-200"/>
+    </contour>
+    <contour>
+      <point x="70" y="625" type="line"/>
+      <point x="108" y="625" type="line"/>
+      <point x="108" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

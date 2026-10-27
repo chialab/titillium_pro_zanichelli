@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E5F" format="2">
+  <advance width="294"/>
+  <unicode hex="1E5F"/>
+  <note>
+uni1E5F
+</note>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="147" y="359" type="line"/>
+      <point x="147" y="359"/>
+      <point x="239" y="430"/>
+      <point x="325" y="450" type="curve"/>
+      <point x="339" y="512" type="line"/>
+      <point x="237" y="488"/>
+      <point x="154" y="414"/>
+      <point x="154" y="414" type="curve"/>
+      <point x="171" y="500" type="line"/>
+      <point x="118" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="-103" y="-139" type="line"/>
+      <point x="140" y="-139" type="line"/>
+      <point x="150" y="-91" type="line"/>
+      <point x="-94" y="-91" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

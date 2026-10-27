@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute" format="2">
+  <advance width="657"/>
+  <unicode hex="0143"/>
+  <note>
+Nacute
+</note>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="329" y="990" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="249" y="313" type="line"/>
+      <point x="264" y="313" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="625" y="710" type="line"/>
+      <point x="408" y="710" type="line"/>
+      <point x="408" y="406" type="line"/>
+      <point x="393" y="406" type="line"/>
+      <point x="238" y="710" type="line"/>
+      <point x="32" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="750" type="line"/>
+      <point x="489" y="831" type="line"/>
+      <point x="435" y="992" type="line"/>
+      <point x="169" y="869" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

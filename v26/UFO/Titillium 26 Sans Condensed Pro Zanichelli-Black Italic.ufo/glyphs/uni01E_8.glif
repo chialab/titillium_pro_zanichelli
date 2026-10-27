@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01E8" format="2">
+  <advance width="557"/>
+  <unicode hex="01E8"/>
+  <note>
+uni01E8
+</note>
+  <outline>
+    <contour>
+      <point x="-15" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="241" y="241" type="line"/>
+      <point x="281" y="241" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="472" y="361" type="line"/>
+      <point x="631" y="710" type="line"/>
+      <point x="425" y="710" type="line"/>
+      <point x="310" y="451" type="line"/>
+      <point x="279" y="451" type="line"/>
+      <point x="331" y="710" type="line"/>
+      <point x="121" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="756" type="line"/>
+      <point x="479" y="756" type="line"/>
+      <point x="586" y="936" type="line"/>
+      <point x="427" y="936" type="line"/>
+      <point x="386" y="859" type="line"/>
+      <point x="376" y="936" type="line"/>
+      <point x="235" y="936" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

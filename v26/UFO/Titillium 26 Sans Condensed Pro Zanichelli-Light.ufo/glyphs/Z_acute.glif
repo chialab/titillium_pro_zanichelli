@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zacute" format="2">
+  <advance width="473"/>
+  <unicode hex="0179"/>
+  <note>
+Zacute
+</note>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="191" y="350" name="center"/>
+  <anchor x="234" y="917" name="top"/>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="56" type="line"/>
+      <point x="101" y="56" type="line"/>
+      <point x="101" y="81" type="line"/>
+      <point x="436" y="609" type="line"/>
+      <point x="436" y="700" type="line"/>
+      <point x="38" y="700" type="line"/>
+      <point x="38" y="645" type="line"/>
+      <point x="372" y="645" type="line"/>
+      <point x="372" y="620" type="line"/>
+      <point x="37" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="778" type="line"/>
+      <point x="340" y="866" type="line"/>
+      <point x="319" y="917" type="line"/>
+      <point x="129" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

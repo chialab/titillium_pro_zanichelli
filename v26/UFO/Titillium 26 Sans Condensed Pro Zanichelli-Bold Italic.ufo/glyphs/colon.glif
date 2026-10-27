@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="232"/>
+  <unicode hex="003A"/>
+  <note>
+colon
+</note>
+  <outline>
+    <contour>
+      <point x="52" y="295" type="line"/>
+      <point x="196" y="295" type="line"/>
+      <point x="232" y="460" type="line"/>
+      <point x="88" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="169" y="165" type="line"/>
+      <point x="25" y="165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

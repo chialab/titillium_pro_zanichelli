@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="489"/>
+  <unicode hex="00CA"/>
+  <note>
+Ecircumflex
+</note>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="428" y="120" type="line"/>
+      <point x="165" y="120" type="line"/>
+      <point x="203" y="297" type="line"/>
+      <point x="414" y="297" type="line"/>
+      <point x="439" y="415" type="line"/>
+      <point x="228" y="415" type="line"/>
+      <point x="265" y="590" type="line"/>
+      <point x="527" y="590" type="line"/>
+      <point x="552" y="710" type="line"/>
+      <point x="154" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="769" type="line"/>
+      <point x="317" y="769" type="line"/>
+      <point x="399" y="867" type="line"/>
+      <point x="439" y="769" type="line"/>
+      <point x="547" y="769" type="line"/>
+      <point x="463" y="946" type="line"/>
+      <point x="349" y="946" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+Q.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-230" type="line"/>
+      <point x="1059" y="-230" type="line"/>
+      <point x="1059" y="904" type="line"/>
+      <point x="61" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="722" y="-130" type="line"/>
+      <point x="656" y="6" type="line"/>
+      <point x="629" y="-4"/>
+      <point x="598" y="-9"/>
+      <point x="560" y="-9" type="curve" smooth="yes"/>
+      <point x="371" y="-9"/>
+      <point x="324" y="118"/>
+      <point x="324" y="347" type="curve" smooth="yes"/>
+      <point x="324" y="576"/>
+      <point x="371" y="709"/>
+      <point x="560" y="709" type="curve" smooth="yes"/>
+      <point x="749" y="709"/>
+      <point x="796" y="576"/>
+      <point x="796" y="347" type="curve" smooth="yes"/>
+      <point x="796" y="182"/>
+      <point x="772" y="70"/>
+      <point x="689" y="20" type="curve"/>
+      <point x="753" y="-113" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="25" type="curve" smooth="yes"/>
+      <point x="725" y="25"/>
+      <point x="758" y="139"/>
+      <point x="758" y="347" type="curve" smooth="yes"/>
+      <point x="758" y="556"/>
+      <point x="725" y="675"/>
+      <point x="560" y="675" type="curve" smooth="yes"/>
+      <point x="396" y="675"/>
+      <point x="362" y="557"/>
+      <point x="362" y="347" type="curve" smooth="yes"/>
+      <point x="362" y="139"/>
+      <point x="396" y="25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

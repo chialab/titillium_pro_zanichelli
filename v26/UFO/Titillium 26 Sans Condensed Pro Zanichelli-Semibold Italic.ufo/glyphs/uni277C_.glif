@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni277C" format="2">
+  <advance width="790"/>
+  <unicode hex="277C"/>
+  <note>
+uni277C
+</note>
+  <outline>
+    <contour>
+      <point x="341" y="-40" type="curve" smooth="yes"/>
+      <point x="572" y="-40"/>
+      <point x="781" y="183"/>
+      <point x="781" y="430" type="curve" smooth="yes"/>
+      <point x="781" y="609"/>
+      <point x="667" y="740"/>
+      <point x="489" y="740" type="curve" smooth="yes"/>
+      <point x="257" y="740"/>
+      <point x="51" y="518"/>
+      <point x="51" y="270" type="curve" smooth="yes"/>
+      <point x="51" y="90"/>
+      <point x="163" y="-40"/>
+    </contour>
+    <contour>
+      <point x="374" y="155" type="line"/>
+      <point x="296" y="189" type="line"/>
+      <point x="437" y="424" type="line"/>
+      <point x="441" y="443" type="line"/>
+      <point x="323" y="443" type="line"/>
+      <point x="341" y="529" type="line"/>
+      <point x="566" y="529" type="line"/>
+      <point x="546" y="436" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

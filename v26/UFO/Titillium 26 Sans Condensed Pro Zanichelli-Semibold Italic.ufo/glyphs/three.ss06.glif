@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+three.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="-50" y="-230" type="line"/>
+      <point x="964" y="-230" type="line"/>
+      <point x="1206" y="904" type="line"/>
+      <point x="192" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-13" type="curve" smooth="yes"/>
+      <point x="406" y="-13"/>
+      <point x="314" y="19"/>
+      <point x="314" y="19" type="curve"/>
+      <point x="339" y="103" type="line"/>
+      <point x="339" y="103"/>
+      <point x="431" y="80"/>
+      <point x="496" y="80" type="curve" smooth="yes"/>
+      <point x="581" y="81"/>
+      <point x="628" y="130"/>
+      <point x="628" y="211" type="curve" smooth="yes"/>
+      <point x="628" y="268"/>
+      <point x="603" y="296"/>
+      <point x="554" y="296" type="curve" smooth="yes"/>
+      <point x="434" y="296" type="line"/>
+      <point x="454" y="385" type="line"/>
+      <point x="570" y="385" type="line" smooth="yes"/>
+      <point x="633" y="385"/>
+      <point x="678" y="435"/>
+      <point x="678" y="504" type="curve" smooth="yes"/>
+      <point x="678" y="556"/>
+      <point x="653" y="582"/>
+      <point x="588" y="582" type="curve" smooth="yes"/>
+      <point x="526" y="582"/>
+      <point x="433" y="566"/>
+      <point x="433" y="566" type="curve"/>
+      <point x="443" y="650" type="line"/>
+      <point x="443" y="650"/>
+      <point x="537" y="676"/>
+      <point x="611" y="676" type="curve" smooth="yes"/>
+      <point x="729" y="676"/>
+      <point x="780" y="617"/>
+      <point x="780" y="527" type="curve" smooth="yes"/>
+      <point x="780" y="453"/>
+      <point x="748" y="376"/>
+      <point x="665" y="341" type="curve"/>
+      <point x="708" y="327"/>
+      <point x="737" y="290"/>
+      <point x="737" y="214" type="curve" smooth="yes"/>
+      <point x="737" y="96"/>
+      <point x="674" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

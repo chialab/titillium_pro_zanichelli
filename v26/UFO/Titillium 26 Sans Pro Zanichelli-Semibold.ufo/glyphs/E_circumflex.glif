@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="555"/>
+  <unicode hex="00CA"/>
+  <note>
+Ecircumflex
+</note>
+  <anchor x="296" y="0" name="bottom"/>
+  <anchor x="469" y="0" name="ogonek"/>
+  <anchor x="296" y="925" name="top"/>
+  <outline>
+    <contour>
+      <point x="509" y="705" type="line"/>
+      <point x="79" y="705" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="93" type="line"/>
+      <point x="186" y="93" type="line"/>
+      <point x="186" y="311" type="line"/>
+      <point x="449" y="311" type="line"/>
+      <point x="449" y="403" type="line"/>
+      <point x="186" y="403" type="line"/>
+      <point x="186" y="612" type="line"/>
+      <point x="509" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="930" type="line"/>
+      <point x="127" y="773" type="line"/>
+      <point x="224" y="773" type="line"/>
+      <point x="296" y="865" type="line"/>
+      <point x="368" y="773" type="line"/>
+      <point x="465" y="773" type="line"/>
+      <point x="342" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

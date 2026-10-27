@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="354"/>
+  <unicode hex="222B"/>
+  <note>
+integral
+</note>
+  <outline>
+    <contour>
+      <point x="87" y="-168" type="curve" smooth="yes"/>
+      <point x="165" y="-168"/>
+      <point x="206" y="-124"/>
+      <point x="206" y="12" type="curve" smooth="yes"/>
+      <point x="206" y="551" type="line" smooth="yes"/>
+      <point x="206" y="669"/>
+      <point x="230" y="706"/>
+      <point x="275" y="706" type="curve" smooth="yes"/>
+      <point x="308" y="706"/>
+      <point x="342" y="701"/>
+      <point x="342" y="701" type="curve"/>
+      <point x="345" y="752" type="line"/>
+      <point x="345" y="752"/>
+      <point x="302" y="760"/>
+      <point x="265" y="760" type="curve" smooth="yes"/>
+      <point x="184" y="760"/>
+      <point x="145" y="708"/>
+      <point x="145" y="552" type="curve" smooth="yes"/>
+      <point x="145" y="13" type="line" smooth="yes"/>
+      <point x="145" y="-82"/>
+      <point x="127" y="-114"/>
+      <point x="75" y="-114" type="curve" smooth="yes"/>
+      <point x="48" y="-114"/>
+      <point x="12" y="-110"/>
+      <point x="12" y="-110" type="curve"/>
+      <point x="9" y="-161" type="line"/>
+      <point x="9" y="-161"/>
+      <point x="54" y="-168"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

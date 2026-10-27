@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E39.ss02" format="2">
+  <advance width="189"/>
+  <note>
+uni1E39.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="225" y="730" type="line"/>
+      <point x="167" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="-173" type="line"/>
+      <point x="41" y="-173" type="line"/>
+      <point x="58" y="-91" type="line"/>
+      <point x="-3" y="-91" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="841" type="line"/>
+      <point x="337" y="841" type="line"/>
+      <point x="347" y="889" type="line"/>
+      <point x="104" y="889" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

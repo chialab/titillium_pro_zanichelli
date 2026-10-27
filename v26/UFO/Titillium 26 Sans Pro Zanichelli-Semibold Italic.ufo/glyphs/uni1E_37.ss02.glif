@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E37.ss02" format="2">
+  <advance width="237"/>
+  <note>
+uni1E37.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="169" y="730" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="270" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="2" y="-83" type="line"/>
+      <point x="-24" y="-202" type="line"/>
+      <point x="79" y="-202" type="line"/>
+      <point x="104" y="-83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

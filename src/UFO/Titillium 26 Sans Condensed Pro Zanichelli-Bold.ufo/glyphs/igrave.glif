@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="230"/>
+  <unicode hex="00EC"/>
+  <note>
+igrave
+</note>
+  <anchor x="115" y="0" name="bottom"/>
+  <anchor x="182" y="0" name="ogonek"/>
+  <anchor x="87" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="510" type="line"/>
+      <point x="48" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="564" type="line"/>
+      <point x="232" y="651" type="line"/>
+      <point x="-21" y="753" type="line"/>
+      <point x="-58" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

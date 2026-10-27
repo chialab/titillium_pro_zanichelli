@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="521"/>
+  <unicode hex="00BC"/>
+  <note>
+onequarter
+</note>
+  <outline>
+    <contour>
+      <point x="69" y="-10" type="line"/>
+      <point x="453" y="687" type="line"/>
+      <point x="418" y="710" type="line"/>
+      <point x="35" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="468" y="53" type="line"/>
+      <point x="495" y="53" type="line"/>
+      <point x="495" y="101" type="line"/>
+      <point x="468" y="101" type="line"/>
+      <point x="468" y="191" type="line"/>
+      <point x="422" y="191" type="line"/>
+      <point x="418" y="101" type="line"/>
+      <point x="345" y="101" type="line"/>
+      <point x="413" y="314" type="line"/>
+      <point x="356" y="314" type="line"/>
+      <point x="292" y="98" type="line"/>
+      <point x="292" y="53" type="line"/>
+      <point x="418" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="387" type="line"/>
+      <point x="166" y="387" type="line"/>
+      <point x="166" y="701" type="line"/>
+      <point x="117" y="701" type="line"/>
+      <point x="27" y="632" type="line"/>
+      <point x="50" y="593" type="line"/>
+      <point x="114" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

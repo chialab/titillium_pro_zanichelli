@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="802"/>
+  <unicode hex="2026"/>
+  <note>
+ellipsis
+</note>
+  <outline>
+    <contour>
+      <point x="510" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="766" y="200" type="line"/>
+      <point x="549" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="232" y="200" type="line"/>
+      <point x="14" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="499" y="200" type="line"/>
+      <point x="282" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

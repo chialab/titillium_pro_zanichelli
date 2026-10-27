@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omega" format="2">
+  <advance width="592"/>
+  <unicode hex="03C9"/>
+  <outline>
+    <contour>
+      <point x="127" y="-11" type="curve" smooth="yes"/>
+      <point x="195" y="-11"/>
+      <point x="227" y="24"/>
+      <point x="253" y="76" type="curve"/>
+      <point x="267" y="76" type="line"/>
+      <point x="273" y="31"/>
+      <point x="300" y="-11"/>
+      <point x="373" y="-11" type="curve" smooth="yes"/>
+      <point x="504" y="-11"/>
+      <point x="550" y="124"/>
+      <point x="550" y="244" type="curve" smooth="yes"/>
+      <point x="550" y="329"/>
+      <point x="512" y="521"/>
+      <point x="512" y="521" type="curve"/>
+      <point x="426" y="494" type="line"/>
+      <point x="426" y="494"/>
+      <point x="462" y="322"/>
+      <point x="462" y="252" type="curve" smooth="yes"/>
+      <point x="462" y="152"/>
+      <point x="429" y="76"/>
+      <point x="369" y="76" type="curve" smooth="yes"/>
+      <point x="335" y="76"/>
+      <point x="319" y="95"/>
+      <point x="319" y="126" type="curve" smooth="yes"/>
+      <point x="319" y="144"/>
+      <point x="322" y="164"/>
+      <point x="327" y="187" type="curve" smooth="yes"/>
+      <point x="355" y="317" type="line"/>
+      <point x="264" y="317" type="line"/>
+      <point x="231" y="167" type="line" smooth="yes"/>
+      <point x="219" y="112"/>
+      <point x="201" y="76"/>
+      <point x="154" y="76" type="curve" smooth="yes"/>
+      <point x="125" y="76"/>
+      <point x="106" y="94"/>
+      <point x="106" y="131" type="curve" smooth="yes"/>
+      <point x="106" y="258"/>
+      <point x="258" y="480"/>
+      <point x="258" y="480" type="curve"/>
+      <point x="180" y="525" type="line"/>
+      <point x="180" y="525"/>
+      <point x="10" y="281"/>
+      <point x="10" y="124" type="curve" smooth="yes"/>
+      <point x="10" y="38"/>
+      <point x="48" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

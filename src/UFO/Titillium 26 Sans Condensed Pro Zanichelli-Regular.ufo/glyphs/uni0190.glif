@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0190" format="2">
+  <advance width="475"/>
+  <unicode hex="0190"/>
+  <note>
+uni0190
+</note>
+  <outline>
+    <contour>
+      <point x="242" y="-12" type="curve" smooth="yes"/>
+      <point x="339" y="-12"/>
+      <point x="447" y="17"/>
+      <point x="447" y="17" type="curve"/>
+      <point x="441" y="79" type="line"/>
+      <point x="441" y="79"/>
+      <point x="337" y="55"/>
+      <point x="252" y="55" type="curve" smooth="yes"/>
+      <point x="163" y="55"/>
+      <point x="123" y="101"/>
+      <point x="123" y="198" type="curve" smooth="yes"/>
+      <point x="123" y="295"/>
+      <point x="175" y="332"/>
+      <point x="245" y="332" type="curve" smooth="yes"/>
+      <point x="371" y="332" type="line"/>
+      <point x="371" y="398" type="line"/>
+      <point x="245" y="398" type="line" smooth="yes"/>
+      <point x="197" y="398"/>
+      <point x="138" y="448"/>
+      <point x="138" y="529" type="curve" smooth="yes"/>
+      <point x="138" y="613"/>
+      <point x="172" y="645"/>
+      <point x="261" y="645" type="curve" smooth="yes"/>
+      <point x="343" y="645"/>
+      <point x="431" y="624"/>
+      <point x="431" y="624" type="curve"/>
+      <point x="439" y="684" type="line"/>
+      <point x="439" y="684"/>
+      <point x="351" y="714"/>
+      <point x="253" y="714" type="curve" smooth="yes"/>
+      <point x="107" y="714"/>
+      <point x="57" y="649"/>
+      <point x="57" y="521" type="curve" smooth="yes"/>
+      <point x="57" y="412"/>
+      <point x="125" y="384"/>
+      <point x="147" y="371" type="curve"/>
+      <point x="86" y="346"/>
+      <point x="43" y="316"/>
+      <point x="43" y="201" type="curve" smooth="yes"/>
+      <point x="43" y="58"/>
+      <point x="104" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

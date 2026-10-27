@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.ss05" format="2">
+  <advance width="1120"/>
+  <note>
+seven.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="-45" y="-230" type="line"/>
+      <point x="980" y="-230" type="line"/>
+      <point x="1197" y="904" type="line"/>
+      <point x="173" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1" y="-195" type="line"/>
+      <point x="202" y="869" type="line"/>
+      <point x="1154" y="869" type="line"/>
+      <point x="950" y="-195" type="line"/>
+    </contour>
+    <contour>
+      <point x="538" y="-19" type="line"/>
+      <point x="808" y="456" type="line"/>
+      <point x="849" y="673" type="line"/>
+      <point x="438" y="673" type="line"/>
+      <point x="399" y="469" type="line"/>
+      <point x="596" y="469" type="line"/>
+      <point x="591" y="443" type="line"/>
+      <point x="384" y="78" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E3B.ss02" format="2">
+  <advance width="211"/>
+  <note>
+uni1E3B.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="177" y="730" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="236" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="-92" y="-91" type="line"/>
+      <point x="-101" y="-139" type="line"/>
+      <point x="170" y="-139" type="line"/>
+      <point x="180" y="-91" type="line"/>
+    </contour>
+  </outline>
+</glyph>

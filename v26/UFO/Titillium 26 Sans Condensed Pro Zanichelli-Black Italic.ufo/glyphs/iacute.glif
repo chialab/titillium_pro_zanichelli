@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="253"/>
+  <unicode hex="00ED"/>
+  <note>
+iacute
+</note>
+  <outline>
+    <contour>
+      <point x="-24" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="277" y="520" type="line"/>
+      <point x="75" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="560" type="line"/>
+      <point x="374" y="640" type="line"/>
+      <point x="325" y="801" type="line"/>
+      <point x="40" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss05" format="2">
+  <advance width="1120"/>
+  <note>
+four.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-230" type="line"/>
+      <point x="1059" y="-230" type="line"/>
+      <point x="1059" y="904" type="line"/>
+      <point x="61" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="-196" type="line"/>
+      <point x="97" y="870" type="line"/>
+      <point x="1023" y="870" type="line"/>
+      <point x="1023" y="-196" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="10" type="line"/>
+      <point x="697" y="10" type="line"/>
+      <point x="697" y="152" type="line"/>
+      <point x="782" y="152" type="line"/>
+      <point x="782" y="184" type="line"/>
+      <point x="697" y="184" type="line"/>
+      <point x="697" y="405" type="line"/>
+      <point x="662" y="405" type="line"/>
+      <point x="662" y="184" type="line"/>
+      <point x="399" y="184" type="line"/>
+      <point x="575" y="670" type="line"/>
+      <point x="538" y="670" type="line"/>
+      <point x="361" y="182" type="line"/>
+      <point x="361" y="152" type="line"/>
+      <point x="662" y="152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

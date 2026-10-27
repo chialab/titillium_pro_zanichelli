@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0312.case" format="2">
+  <advance width="0"/>
+  <note>
+uni0312.case
+</note>
+  <outline>
+    <contour>
+      <point x="189" y="763" type="line"/>
+      <point x="328" y="909" type="line"/>
+      <point x="273" y="952" type="line"/>
+      <point x="119" y="816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 09:50:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

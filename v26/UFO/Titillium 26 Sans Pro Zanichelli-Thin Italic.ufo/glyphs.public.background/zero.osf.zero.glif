@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="526"/>
+  <outline>
+    <contour>
+      <point x="188" y="139" type="line"/>
+      <point x="360" y="340" type="line"/>
+      <point x="337" y="362" type="line"/>
+      <point x="165" y="161" type="line"/>
+    </contour>
+  </outline>
+</glyph>

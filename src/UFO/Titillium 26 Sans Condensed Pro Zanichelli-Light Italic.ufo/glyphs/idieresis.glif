@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="189"/>
+  <unicode hex="00EF"/>
+  <note>
+idieresis
+</note>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="177" y="500" type="line"/>
+      <point x="118" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="631" type="line"/>
+      <point x="112" y="631" type="line"/>
+      <point x="127" y="707" type="line"/>
+      <point x="69" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="631" type="line"/>
+      <point x="287" y="631" type="line"/>
+      <point x="303" y="707" type="line"/>
+      <point x="244" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

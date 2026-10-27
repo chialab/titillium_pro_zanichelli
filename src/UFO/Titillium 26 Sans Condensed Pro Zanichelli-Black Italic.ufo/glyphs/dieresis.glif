@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="448"/>
+  <unicode hex="00A8"/>
+  <note>
+dieresis
+</note>
+  <outline>
+    <contour>
+      <point x="59" y="575" type="line"/>
+      <point x="220" y="575" type="line"/>
+      <point x="249" y="730" type="line"/>
+      <point x="88" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="575" type="line"/>
+      <point x="421" y="575" type="line"/>
+      <point x="450" y="730" type="line"/>
+      <point x="290" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

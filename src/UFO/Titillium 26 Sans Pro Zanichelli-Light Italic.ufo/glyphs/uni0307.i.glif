@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0307.i" format="2">
+  <advance width="0"/>
+  <note>
+uni0307.i
+</note>
+  <outline>
+    <contour>
+      <point x="137" y="612" type="line"/>
+      <point x="156" y="700" type="line"/>
+      <point x="96" y="700" type="line"/>
+      <point x="77" y="612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

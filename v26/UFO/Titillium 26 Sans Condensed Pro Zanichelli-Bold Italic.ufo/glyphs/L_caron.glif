@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="431"/>
+  <unicode hex="013D"/>
+  <note>
+Lcaron
+</note>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="396" y="122" type="line"/>
+      <point x="166" y="122" type="line"/>
+      <point x="292" y="710" type="line"/>
+      <point x="155" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="554" type="curve"/>
+      <point x="358" y="526" type="line"/>
+      <point x="358" y="526"/>
+      <point x="422" y="583"/>
+      <point x="432" y="628" type="curve" smooth="yes"/>
+      <point x="439" y="661"/>
+      <point x="447" y="710"/>
+      <point x="447" y="710" type="curve"/>
+      <point x="348" y="710" type="line"/>
+      <point x="348" y="710"/>
+      <point x="339" y="659"/>
+      <point x="335" y="640" type="curve" smooth="yes"/>
+      <point x="331" y="620"/>
+      <point x="294" y="554"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="486"/>
+  <unicode hex="0176"/>
+  <note>
+Ycircumflex
+</note>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="243" y="925" name="top"/>
+  <outline>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="296" type="line"/>
+      <point x="486" y="705" type="line"/>
+      <point x="369" y="705" type="line"/>
+      <point x="243" y="398" type="line"/>
+      <point x="118" y="705" type="line"/>
+      <point x="-1" y="705" type="line"/>
+      <point x="190" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="773" type="line"/>
+      <point x="180" y="773" type="line"/>
+      <point x="243" y="865" type="line"/>
+      <point x="307" y="773" type="line"/>
+      <point x="401" y="773" type="line"/>
+      <point x="289" y="930" type="line"/>
+      <point x="197" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

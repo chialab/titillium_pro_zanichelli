@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="343"/>
+  <unicode hex="203A"/>
+  <note>
+guilsinglright
+</note>
+  <outline>
+    <contour>
+      <point x="70" y="-2" type="line"/>
+      <point x="304" y="179" type="line"/>
+      <point x="335" y="339" type="line"/>
+      <point x="153" y="520" type="line"/>
+      <point x="41" y="393" type="line"/>
+      <point x="161" y="274" type="line"/>
+      <point x="-14" y="138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

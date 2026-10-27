@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.ss05" format="2">
+  <advance width="1120"/>
+  <note>
+A.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="52" y="-230" type="line"/>
+      <point x="1067" y="-230" type="line"/>
+      <point x="1067" y="904" type="line"/>
+      <point x="52" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="-143" type="line"/>
+      <point x="136" y="817" type="line"/>
+      <point x="983" y="817" type="line"/>
+      <point x="983" y="-143" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="446" y="173" type="line"/>
+      <point x="670" y="173" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="654" y="705" type="line"/>
+      <point x="465" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="266" type="line"/>
+      <point x="545" y="612" type="line"/>
+      <point x="572" y="612" type="line"/>
+      <point x="648" y="266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

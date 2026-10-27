@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0394" format="2">
+  <advance width="522"/>
+  <unicode hex="0394"/>
+  <note>
+uni0394
+</note>
+  <outline>
+    <contour>
+      <point x="-19" y="0" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="446" y="56" type="line"/>
+      <point x="426" y="700" type="line"/>
+      <point x="291" y="700" type="line"/>
+      <point x="-7" y="57" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="66" type="line"/>
+      <point x="334" y="635" type="line"/>
+      <point x="360" y="635" type="line"/>
+      <point x="373" y="66" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 10:37:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

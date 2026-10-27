@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupdn" format="2">
+  <advance width="508"/>
+  <unicode hex="2195"/>
+  <note>
+arrowupdn
+</note>
+  <outline>
+    <contour>
+      <point x="254" y="-40" type="line"/>
+      <point x="493" y="222" type="line"/>
+      <point x="426" y="289" type="line"/>
+      <point x="304" y="136" type="line"/>
+      <point x="301" y="348" type="line"/>
+      <point x="304" y="558" type="line"/>
+      <point x="426" y="406" type="line"/>
+      <point x="493" y="472" type="line"/>
+      <point x="254" y="735" type="line"/>
+      <point x="15" y="472" type="line"/>
+      <point x="81" y="406" type="line"/>
+      <point x="204" y="558" type="line"/>
+      <point x="207" y="348" type="line"/>
+      <point x="204" y="136" type="line"/>
+      <point x="81" y="289" type="line"/>
+      <point x="15" y="222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

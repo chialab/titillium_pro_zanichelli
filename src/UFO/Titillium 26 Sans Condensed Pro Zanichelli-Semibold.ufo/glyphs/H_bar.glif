@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="632"/>
+  <unicode hex="0126"/>
+  <note>
+Hbar
+</note>
+  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="316" y="557" name="center"/>
+  <anchor x="316" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="310" type="line"/>
+      <point x="444" y="310" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="513" type="line"/>
+      <point x="610" y="513" type="line"/>
+      <point x="610" y="601" type="line"/>
+      <point x="550" y="601" type="line"/>
+      <point x="550" y="705" type="line"/>
+      <point x="444" y="705" type="line"/>
+      <point x="444" y="601" type="line"/>
+      <point x="189" y="601" type="line"/>
+      <point x="189" y="705" type="line"/>
+      <point x="82" y="705" type="line"/>
+      <point x="82" y="601" type="line"/>
+      <point x="22" y="601" type="line"/>
+      <point x="22" y="513" type="line"/>
+      <point x="82" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="405" type="line"/>
+      <point x="189" y="513" type="line"/>
+      <point x="444" y="513" type="line"/>
+      <point x="444" y="405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="463"/>
+  <unicode hex="00FE"/>
+  <note>
+thorn
+</note>
+  <outline>
+    <contour>
+      <point x="-50" y="-230" type="line"/>
+      <point x="51" y="-230" type="line"/>
+      <point x="102" y="6" type="line"/>
+      <point x="105" y="5"/>
+      <point x="165" y="-13"/>
+      <point x="218" y="-13" type="curve" smooth="yes"/>
+      <point x="342" y="-13"/>
+      <point x="443" y="170"/>
+      <point x="443" y="361" type="curve" smooth="yes"/>
+      <point x="443" y="450"/>
+      <point x="407" y="520"/>
+      <point x="332" y="520" type="curve" smooth="yes"/>
+      <point x="255" y="520"/>
+      <point x="190" y="428"/>
+      <point x="190" y="428" type="curve"/>
+      <point x="256" y="730" type="line"/>
+      <point x="155" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="75" type="curve" smooth="yes"/>
+      <point x="179" y="75"/>
+      <point x="122" y="88"/>
+      <point x="119" y="89" type="curve"/>
+      <point x="168" y="320" type="line"/>
+      <point x="168" y="320"/>
+      <point x="235" y="429"/>
+      <point x="296" y="429" type="curve" smooth="yes"/>
+      <point x="328" y="429"/>
+      <point x="342" y="404"/>
+      <point x="342" y="355" type="curve" smooth="yes"/>
+      <point x="342" y="210"/>
+      <point x="281" y="75"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

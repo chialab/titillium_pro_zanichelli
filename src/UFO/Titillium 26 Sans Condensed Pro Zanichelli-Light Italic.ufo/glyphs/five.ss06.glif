@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.ss06" format="2">
+  <advance width="1125"/>
+  <note>
+five.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="-43" y="-230" type="line"/>
+      <point x="962" y="-230" type="line"/>
+      <point x="1204" y="904" type="line"/>
+      <point x="199" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="-11" type="curve" smooth="yes"/>
+      <point x="418" y="-11"/>
+      <point x="322" y="17"/>
+      <point x="322" y="17" type="curve"/>
+      <point x="339" y="69" type="line"/>
+      <point x="339" y="69"/>
+      <point x="426" y="44"/>
+      <point x="498" y="44" type="curve" smooth="yes"/>
+      <point x="635" y="44"/>
+      <point x="690" y="142"/>
+      <point x="690" y="245" type="curve" smooth="yes"/>
+      <point x="690" y="335"/>
+      <point x="644" y="359"/>
+      <point x="585" y="359" type="curve" smooth="yes"/>
+      <point x="507" y="359"/>
+      <point x="438" y="313"/>
+      <point x="438" y="313" type="curve"/>
+      <point x="394" y="321" type="line"/>
+      <point x="485" y="660" type="line"/>
+      <point x="818" y="660" type="line"/>
+      <point x="807" y="604" type="line"/>
+      <point x="525" y="604" type="line"/>
+      <point x="459" y="372" type="line"/>
+      <point x="459" y="372"/>
+      <point x="527" y="414"/>
+      <point x="606" y="414" type="curve" smooth="yes"/>
+      <point x="692" y="414"/>
+      <point x="754" y="368"/>
+      <point x="754" y="254" type="curve" smooth="yes"/>
+      <point x="754" y="122"/>
+      <point x="676" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

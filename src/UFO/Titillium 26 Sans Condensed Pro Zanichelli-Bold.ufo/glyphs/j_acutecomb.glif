@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j_acutecomb" format="2">
+  <advance width="231"/>
+  <note>
+uni006A0301
+</note>
+  <anchor x="94" y="-230" name="bottom"/>
+  <anchor x="142" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="-33" y="-141" type="curve"/>
+      <point x="20" y="-240" type="line"/>
+      <point x="147" y="-170"/>
+      <point x="183" y="-126"/>
+      <point x="183" y="13" type="curve" smooth="yes"/>
+      <point x="183" y="510" type="line"/>
+      <point x="49" y="510" type="line"/>
+      <point x="49" y="14" type="line" smooth="yes"/>
+      <point x="49" y="-71"/>
+      <point x="37" y="-87"/>
+    </contour>
+    <contour>
+      <point x="23" y="564" type="line"/>
+      <point x="287" y="638" type="line"/>
+      <point x="250" y="753" type="line"/>
+      <point x="-3" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

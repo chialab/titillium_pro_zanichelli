@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="438"/>
+  <unicode hex="2033"/>
+  <note>
+second
+</note>
+  <outline>
+    <contour>
+      <point x="261" y="420" type="line"/>
+      <point x="379" y="420" type="line"/>
+      <point x="490" y="670" type="line"/>
+      <point x="358" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="420" type="line"/>
+      <point x="188" y="420" type="line"/>
+      <point x="299" y="670" type="line"/>
+      <point x="167" y="670" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

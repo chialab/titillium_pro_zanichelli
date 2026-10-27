@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECA" format="2">
+  <advance width="251"/>
+  <unicode hex="1ECA"/>
+  <note>
+uni1ECA
+</note>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="291" y="710" type="line"/>
+      <point x="154" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="-227" type="line"/>
+      <point x="95" y="-227" type="line"/>
+      <point x="126" y="-84" type="line"/>
+      <point x="-9" y="-84" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

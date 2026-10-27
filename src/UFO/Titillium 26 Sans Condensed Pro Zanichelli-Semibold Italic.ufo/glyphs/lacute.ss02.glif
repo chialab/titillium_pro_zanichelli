@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.ss02" format="2">
+  <advance width="209"/>
+  <note>
+lacute.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="256" y="730" type="line"/>
+      <point x="154" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="792" type="line"/>
+      <point x="336" y="872" type="line"/>
+      <point x="299" y="961" type="line"/>
+      <point x="90" y="861" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

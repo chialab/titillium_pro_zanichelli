@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute" format="2">
+  <advance width="521"/>
+  <unicode hex="0154"/>
+  <note>
+Racute
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="141" y="275" type="line"/>
+      <point x="307" y="275" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="365" y="286" type="line"/>
+      <point x="483" y="313"/>
+      <point x="532" y="437"/>
+      <point x="532" y="538" type="curve" smooth="yes"/>
+      <point x="532" y="641"/>
+      <point x="478" y="700"/>
+      <point x="365" y="700" type="curve" smooth="yes"/>
+      <point x="171" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="329" type="curve" smooth="yes"/>
+      <point x="154" y="329" type="line"/>
+      <point x="220" y="645" type="line"/>
+      <point x="367" y="645" type="line" smooth="yes"/>
+      <point x="437" y="645"/>
+      <point x="467" y="599"/>
+      <point x="467" y="529" type="curve" smooth="yes"/>
+      <point x="467" y="439"/>
+      <point x="426" y="329"/>
+    </contour>
+    <contour>
+      <point x="294" y="778" type="line"/>
+      <point x="472" y="866" type="line"/>
+      <point x="446" y="917" type="line"/>
+      <point x="273" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="256"/>
+  <unicode hex="0069"/>
+  <note>
+i
+</note>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="229" y="0" name="ogonek"/>
+  <anchor x="128" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="520" type="line"/>
+      <point x="23" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="566" type="line"/>
+      <point x="234" y="566" type="line"/>
+      <point x="234" y="730" type="line"/>
+      <point x="22" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

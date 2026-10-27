@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcircumflex" format="2">
+  <advance width="595"/>
+  <unicode hex="0124"/>
+  <note>
+Hcircumflex
+</note>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="298" y="543" name="center"/>
+  <anchor x="298" y="912" name="top"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="328" type="line"/>
+      <point x="459" y="328" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="700" type="line"/>
+      <point x="459" y="700" type="line"/>
+      <point x="459" y="384" type="line"/>
+      <point x="136" y="384" type="line"/>
+      <point x="136" y="700" type="line"/>
+      <point x="74" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="783" type="line"/>
+      <point x="226" y="783" type="line"/>
+      <point x="298" y="869" type="line"/>
+      <point x="369" y="783" type="line"/>
+      <point x="430" y="783" type="line"/>
+      <point x="326" y="912" type="line"/>
+      <point x="270" y="912" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

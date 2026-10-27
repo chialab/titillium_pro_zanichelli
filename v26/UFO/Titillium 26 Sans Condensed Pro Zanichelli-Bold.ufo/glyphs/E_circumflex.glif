@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="491"/>
+  <unicode hex="00CA"/>
+  <note>
+Ecircumflex
+</note>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="421" y="0" name="ogonek"/>
+  <anchor x="259" y="936" name="top"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="120" type="line"/>
+      <point x="195" y="120" type="line"/>
+      <point x="195" y="299" type="line"/>
+      <point x="403" y="299" type="line"/>
+      <point x="403" y="417" type="line"/>
+      <point x="195" y="417" type="line"/>
+      <point x="195" y="590" type="line"/>
+      <point x="457" y="590" type="line"/>
+      <point x="457" y="710" type="line"/>
+      <point x="57" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="769" type="line"/>
+      <point x="198" y="769" type="line"/>
+      <point x="259" y="867" type="line"/>
+      <point x="320" y="769" type="line"/>
+      <point x="438" y="769" type="line"/>
+      <point x="316" y="946" type="line"/>
+      <point x="202" y="946" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

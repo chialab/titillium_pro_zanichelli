@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="556"/>
+  <unicode hex="0170"/>
+  <note>
+Uhungarumlaut
+</note>
+  <outline>
+    <contour>
+      <point x="241" y="-10" type="curve" smooth="yes"/>
+      <point x="367" y="-10"/>
+      <point x="431" y="40"/>
+      <point x="465" y="198" type="curve" smooth="yes"/>
+      <point x="573" y="700" type="line"/>
+      <point x="538" y="700" type="line"/>
+      <point x="429" y="194" type="line" smooth="yes"/>
+      <point x="403" y="73"/>
+      <point x="350" y="24"/>
+      <point x="241" y="24" type="curve" smooth="yes"/>
+      <point x="132" y="24"/>
+      <point x="78" y="69"/>
+      <point x="105" y="195" type="curve" smooth="yes"/>
+      <point x="213" y="700" type="line"/>
+      <point x="178" y="700" type="line"/>
+      <point x="70" y="196" type="line" smooth="yes"/>
+      <point x="39" y="51"/>
+      <point x="113" y="-10"/>
+    </contour>
+    <contour>
+      <point x="277" y="789" type="line"/>
+      <point x="426" y="881" type="line"/>
+      <point x="414" y="912" type="line"/>
+      <point x="267" y="814" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="789" type="line"/>
+      <point x="579" y="881" type="line"/>
+      <point x="567" y="912" type="line"/>
+      <point x="421" y="814" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

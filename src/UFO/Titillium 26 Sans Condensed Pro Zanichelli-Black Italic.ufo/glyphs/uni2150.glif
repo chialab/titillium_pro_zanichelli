@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2150" format="2">
+  <advance width="581"/>
+  <unicode hex="2150"/>
+  <note>
+uni2150
+</note>
+  <outline>
+    <contour>
+      <point x="36" y="-63" type="line"/>
+      <point x="591" y="732" type="line"/>
+      <point x="562" y="756" type="line"/>
+      <point x="6" y="-39" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="-31" type="line"/>
+      <point x="556" y="216" type="line"/>
+      <point x="577" y="331" type="line"/>
+      <point x="327" y="331" type="line"/>
+      <point x="305" y="211" type="line"/>
+      <point x="414" y="211" type="line"/>
+      <point x="411" y="196" type="line"/>
+      <point x="292" y="31" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="385" type="line"/>
+      <point x="257" y="385" type="line"/>
+      <point x="321" y="715" type="line"/>
+      <point x="207" y="715" type="line"/>
+      <point x="78" y="643" type="line"/>
+      <point x="95" y="529" type="line"/>
+      <point x="154" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

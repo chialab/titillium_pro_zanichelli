@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="115"/>
+  <unicode hex="2044"/>
+  <note>
+fraction
+</note>
+  <outline>
+    <contour>
+      <point x="301" y="671" type="line"/>
+      <point x="244" y="710" type="line"/>
+      <point x="-187" y="29" type="line"/>
+      <point x="-133" y="-10" type="line"/>
+    </contour>
+  </outline>
+</glyph>

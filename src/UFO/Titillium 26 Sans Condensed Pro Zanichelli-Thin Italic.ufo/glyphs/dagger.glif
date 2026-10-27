@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="393"/>
+  <unicode hex="2020"/>
+  <note>
+dagger
+</note>
+  <outline>
+    <contour>
+      <point x="81" y="-230" type="line"/>
+      <point x="109" y="-230" type="line"/>
+      <point x="262" y="466" type="line"/>
+      <point x="421" y="466" type="line"/>
+      <point x="428" y="500" type="line"/>
+      <point x="267" y="500" type="line"/>
+      <point x="310" y="700" type="line"/>
+      <point x="275" y="700" type="line"/>
+      <point x="233" y="500" type="line"/>
+      <point x="71" y="500" type="line"/>
+      <point x="64" y="466" type="line"/>
+      <point x="224" y="466" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

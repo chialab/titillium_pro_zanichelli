@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B3" format="2">
+  <advance width="256"/>
+  <unicode hex="00B3"/>
+  <note>
+uni00B3
+</note>
+  <outline>
+    <contour>
+      <point x="154" y="402" type="curve" smooth="yes"/>
+      <point x="239" y="402"/>
+      <point x="295" y="438"/>
+      <point x="295" y="521" type="curve" smooth="yes"/>
+      <point x="295" y="555"/>
+      <point x="284" y="576"/>
+      <point x="245" y="586" type="curve"/>
+      <point x="296" y="599"/>
+      <point x="315" y="634"/>
+      <point x="315" y="676" type="curve" smooth="yes"/>
+      <point x="315" y="721"/>
+      <point x="287" y="746"/>
+      <point x="220" y="746" type="curve" smooth="yes"/>
+      <point x="181" y="746"/>
+      <point x="119" y="737"/>
+      <point x="119" y="737" type="curve"/>
+      <point x="106" y="648" type="line"/>
+      <point x="106" y="648"/>
+      <point x="152" y="653"/>
+      <point x="183" y="653" type="curve" smooth="yes"/>
+      <point x="192" y="653"/>
+      <point x="200" y="651"/>
+      <point x="200" y="638" type="curve" smooth="yes"/>
+      <point x="200" y="626"/>
+      <point x="194" y="616"/>
+      <point x="183" y="616" type="curve" smooth="yes"/>
+      <point x="123" y="616" type="line"/>
+      <point x="107" y="543" type="line"/>
+      <point x="169" y="543" type="line" smooth="yes"/>
+      <point x="178" y="543"/>
+      <point x="182" y="539"/>
+      <point x="182" y="525" type="curve" smooth="yes"/>
+      <point x="182" y="501"/>
+      <point x="174" y="494"/>
+      <point x="156" y="494" type="curve" smooth="yes"/>
+      <point x="129" y="494"/>
+      <point x="74" y="500"/>
+      <point x="74" y="500" type="curve"/>
+      <point x="49" y="410" type="line"/>
+      <point x="49" y="410"/>
+      <point x="119" y="402"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

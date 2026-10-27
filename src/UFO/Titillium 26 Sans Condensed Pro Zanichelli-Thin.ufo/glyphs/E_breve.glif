@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <advance width="488"/>
+  <unicode hex="0114"/>
+  <note>
+Ebreve
+</note>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="407" y="0" name="ogonek"/>
+  <anchor x="269" y="912" name="top"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="34" type="line"/>
+      <point x="118" y="34" type="line"/>
+      <point x="118" y="341" type="line"/>
+      <point x="393" y="341" type="line"/>
+      <point x="393" y="375" type="line"/>
+      <point x="118" y="375" type="line"/>
+      <point x="118" y="666" type="line"/>
+      <point x="446" y="666" type="line"/>
+      <point x="446" y="700" type="line"/>
+      <point x="82" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="789" type="curve" smooth="yes"/>
+      <point x="340" y="789"/>
+      <point x="385" y="843"/>
+      <point x="389" y="912" type="curve"/>
+      <point x="355" y="912" type="line"/>
+      <point x="351" y="862"/>
+      <point x="321" y="821"/>
+      <point x="269" y="821" type="curve" smooth="yes"/>
+      <point x="216" y="821"/>
+      <point x="187" y="862"/>
+      <point x="183" y="912" type="curve"/>
+      <point x="150" y="912" type="line"/>
+      <point x="154" y="843"/>
+      <point x="198" y="789"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="489"/>
+  <unicode hex="003C"/>
+  <note>
+less
+</note>
+  <outline>
+    <contour>
+      <point x="387" y="40" type="line"/>
+      <point x="403" y="110" type="line"/>
+      <point x="139" y="279" type="line"/>
+      <point x="475" y="448" type="line"/>
+      <point x="491" y="530" type="line"/>
+      <point x="67" y="316" type="line"/>
+      <point x="53" y="254" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

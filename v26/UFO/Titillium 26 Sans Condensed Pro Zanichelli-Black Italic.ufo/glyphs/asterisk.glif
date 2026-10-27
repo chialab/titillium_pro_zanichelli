@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="430"/>
+  <unicode hex="002A"/>
+  <note>
+asterisk
+</note>
+  <outline>
+    <contour>
+      <point x="254" y="284" type="line"/>
+      <point x="381" y="331" type="line"/>
+      <point x="343" y="435" type="line"/>
+      <point x="444" y="428" type="line"/>
+      <point x="444" y="575" type="line"/>
+      <point x="342" y="566" type="line"/>
+      <point x="380" y="670" type="line"/>
+      <point x="250" y="716" type="line"/>
+      <point x="227" y="607" type="line"/>
+      <point x="150" y="680" type="line"/>
+      <point x="73" y="559" type="line"/>
+      <point x="158" y="499" type="line"/>
+      <point x="75" y="440" type="line"/>
+      <point x="151" y="320" type="line"/>
+      <point x="229" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

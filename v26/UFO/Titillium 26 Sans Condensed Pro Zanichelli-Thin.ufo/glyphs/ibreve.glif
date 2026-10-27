@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="178"/>
+  <unicode hex="012D"/>
+  <note>
+ibreve
+</note>
+  <anchor x="90" y="0" name="bottom"/>
+  <anchor x="107" y="0" name="ogonek"/>
+  <anchor x="90" y="732" name="top"/>
+  <outline>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="107" y="500" type="line"/>
+      <point x="72" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="609" type="curve" smooth="yes"/>
+      <point x="161" y="609"/>
+      <point x="205" y="663"/>
+      <point x="209" y="732" type="curve"/>
+      <point x="176" y="732" type="line"/>
+      <point x="172" y="682"/>
+      <point x="143" y="641"/>
+      <point x="90" y="641" type="curve" smooth="yes"/>
+      <point x="36" y="641"/>
+      <point x="7" y="682"/>
+      <point x="3" y="732" type="curve"/>
+      <point x="-30" y="732" type="line"/>
+      <point x="-26" y="663"/>
+      <point x="19" y="609"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+four.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="55" y="-230" type="line"/>
+      <point x="1064" y="-230" type="line"/>
+      <point x="1064" y="904" type="line"/>
+      <point x="55" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="10" type="line"/>
+      <point x="620" y="139" type="line"/>
+      <point x="341" y="139" type="line"/>
+      <point x="341" y="199" type="line"/>
+      <point x="505" y="670" type="line"/>
+      <point x="589" y="670" type="line"/>
+      <point x="421" y="207" type="line"/>
+      <point x="620" y="207" type="line"/>
+      <point x="626" y="413" type="line"/>
+      <point x="697" y="413" type="line"/>
+      <point x="697" y="207" type="line"/>
+      <point x="769" y="207" type="line"/>
+      <point x="769" y="139" type="line"/>
+      <point x="697" y="139" type="line"/>
+      <point x="697" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

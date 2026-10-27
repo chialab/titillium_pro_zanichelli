@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="638"/>
+  <unicode hex="00BB"/>
+  <note>
+guillemotright
+</note>
+  <outline>
+    <contour>
+      <point x="365" y="-2" type="line"/>
+      <point x="600" y="179" type="line"/>
+      <point x="630" y="339" type="line"/>
+      <point x="448" y="520" type="line"/>
+      <point x="337" y="393" type="line"/>
+      <point x="456" y="274" type="line"/>
+      <point x="282" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="2" type="line"/>
+      <point x="298" y="180" type="line"/>
+      <point x="328" y="337" type="line"/>
+      <point x="149" y="514" type="line"/>
+      <point x="40" y="389" type="line"/>
+      <point x="157" y="273" type="line"/>
+      <point x="-14" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

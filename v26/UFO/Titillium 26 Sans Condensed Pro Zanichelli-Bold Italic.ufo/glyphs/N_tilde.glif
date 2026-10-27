@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde" format="2">
+  <advance width="636"/>
+  <unicode hex="00D1"/>
+  <note>
+Ntilde
+</note>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="261" y="590" type="line"/>
+      <point x="289" y="590" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="676" y="710" type="line"/>
+      <point x="544" y="710" type="line"/>
+      <point x="418" y="120" type="line"/>
+      <point x="390" y="120" type="line"/>
+      <point x="392" y="710" type="line"/>
+      <point x="155" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="780" type="curve" smooth="yes"/>
+      <point x="539" y="780"/>
+      <point x="620" y="848"/>
+      <point x="617" y="848" type="curve"/>
+      <point x="588" y="918" type="line"/>
+      <point x="588" y="918"/>
+      <point x="531" y="884"/>
+      <point x="507" y="884" type="curve" smooth="yes"/>
+      <point x="482" y="884"/>
+      <point x="429" y="920"/>
+      <point x="392" y="920" type="curve" smooth="yes"/>
+      <point x="343" y="920"/>
+      <point x="267" y="855"/>
+      <point x="267" y="855" type="curve"/>
+      <point x="295" y="785" type="line"/>
+      <point x="295" y="785"/>
+      <point x="346" y="816"/>
+      <point x="372" y="816" type="curve" smooth="yes"/>
+      <point x="402" y="816"/>
+      <point x="451" y="780"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

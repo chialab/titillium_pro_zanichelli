@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+J.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="57" y="-230" type="line"/>
+      <point x="1062" y="-230" type="line"/>
+      <point x="1062" y="904" type="line"/>
+      <point x="57" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="-7" type="curve"/>
+      <point x="451" y="49" type="line"/>
+      <point x="539" y="49"/>
+      <point x="555" y="61"/>
+      <point x="555" y="147" type="curve" smooth="yes"/>
+      <point x="555" y="700" type="line"/>
+      <point x="615" y="700" type="line"/>
+      <point x="616" y="142" type="line" smooth="yes"/>
+      <point x="616" y="12"/>
+      <point x="573" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

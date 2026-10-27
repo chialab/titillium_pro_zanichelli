@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="2">
+  <advance width="750"/>
+  <unicode hex="01FC"/>
+  <note>
+AEacute
+</note>
+  <outline>
+    <contour>
+      <point x="-58" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="121" y="187" type="line"/>
+      <point x="326" y="187" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="678" y="68" type="line"/>
+      <point x="379" y="68" type="line"/>
+      <point x="433" y="323" type="line"/>
+      <point x="679" y="323" type="line"/>
+      <point x="693" y="389" type="line"/>
+      <point x="447" y="389" type="line"/>
+      <point x="499" y="632" type="line"/>
+      <point x="798" y="632" type="line"/>
+      <point x="812" y="700" type="line"/>
+      <point x="332" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="255" type="line"/>
+      <point x="367" y="632" type="line"/>
+      <point x="420" y="632" type="line"/>
+      <point x="341" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="771" type="line"/>
+      <point x="663" y="856" type="line"/>
+      <point x="631" y="920" type="line"/>
+      <point x="448" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

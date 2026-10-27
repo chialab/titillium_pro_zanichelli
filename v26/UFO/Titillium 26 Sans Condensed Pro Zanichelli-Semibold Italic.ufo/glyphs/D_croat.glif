@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance width="582"/>
+  <unicode hex="0110"/>
+  <note>
+Dcroat
+</note>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="250" y="0" type="line" smooth="yes"/>
+      <point x="489" y="0"/>
+      <point x="581" y="290"/>
+      <point x="581" y="495" type="curve" smooth="yes"/>
+      <point x="581" y="625"/>
+      <point x="527" y="705"/>
+      <point x="383" y="705" type="curve" smooth="yes"/>
+      <point x="183" y="705" type="line"/>
+      <point x="118" y="400" type="line"/>
+      <point x="59" y="400" type="line"/>
+      <point x="40" y="310" type="line"/>
+      <point x="99" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="93" type="curve" smooth="yes"/>
+      <point x="159" y="93" type="line"/>
+      <point x="205" y="310" type="line"/>
+      <point x="348" y="310" type="line"/>
+      <point x="367" y="400" type="line"/>
+      <point x="224" y="400" type="line"/>
+      <point x="269" y="612" type="line"/>
+      <point x="363" y="612" type="line" smooth="yes"/>
+      <point x="440" y="612"/>
+      <point x="471" y="571"/>
+      <point x="471" y="489" type="curve" smooth="yes"/>
+      <point x="471" y="318"/>
+      <point x="388" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

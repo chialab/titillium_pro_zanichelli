@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="316"/>
+  <unicode hex="0022"/>
+  <note>
+quotedbl
+</note>
+  <outline>
+    <contour>
+      <point x="249" y="508" type="line"/>
+      <point x="316" y="508" type="line"/>
+      <point x="369" y="730" type="line"/>
+      <point x="292" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="508" type="line"/>
+      <point x="174" y="508" type="line"/>
+      <point x="227" y="730" type="line"/>
+      <point x="150" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

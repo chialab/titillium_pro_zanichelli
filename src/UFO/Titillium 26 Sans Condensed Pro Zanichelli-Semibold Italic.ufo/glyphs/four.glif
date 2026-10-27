@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="470"/>
+  <unicode hex="0034"/>
+  <note>
+four
+</note>
+  <outline>
+    <contour>
+      <point x="233" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="362" y="119" type="line"/>
+      <point x="423" y="119" type="line"/>
+      <point x="443" y="212" type="line"/>
+      <point x="379" y="212" type="line"/>
+      <point x="421" y="408" type="line"/>
+      <point x="320" y="408" type="line"/>
+      <point x="278" y="212" type="line"/>
+      <point x="124" y="212" type="line"/>
+      <point x="383" y="665" type="line"/>
+      <point x="266" y="665" type="line"/>
+      <point x="19" y="201" type="line"/>
+      <point x="1" y="119" type="line"/>
+      <point x="258" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="599"/>
+  <unicode hex="2122"/>
+  <note>
+trademark
+</note>
+  <outline>
+    <contour>
+      <point x="263" y="387" type="line"/>
+      <point x="358" y="387" type="line"/>
+      <point x="400" y="605" type="line"/>
+      <point x="405" y="605" type="line"/>
+      <point x="390" y="408" type="line"/>
+      <point x="474" y="408" type="line"/>
+      <point x="533" y="605" type="line"/>
+      <point x="538" y="605" type="line"/>
+      <point x="497" y="387" type="line"/>
+      <point x="593" y="387" type="line"/>
+      <point x="653" y="700" type="line"/>
+      <point x="511" y="700" type="line"/>
+      <point x="459" y="547" type="line"/>
+      <point x="475" y="700" type="line"/>
+      <point x="322" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="388" type="line"/>
+      <point x="199" y="388" type="line"/>
+      <point x="243" y="620" type="line"/>
+      <point x="289" y="620" type="line"/>
+      <point x="304" y="700" type="line"/>
+      <point x="93" y="700" type="line"/>
+      <point x="78" y="620" type="line"/>
+      <point x="142" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+two.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="45" y="-230" type="line"/>
+      <point x="1075" y="-230" type="line"/>
+      <point x="1075" y="904" type="line"/>
+      <point x="45" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="10" type="line"/>
+      <point x="354" y="183" type="line"/>
+      <point x="431" y="265" type="line" smooth="yes"/>
+      <point x="518" y="357"/>
+      <point x="562" y="406"/>
+      <point x="562" y="449" type="curve" smooth="yes"/>
+      <point x="562" y="472"/>
+      <point x="548" y="494"/>
+      <point x="483" y="494" type="curve" smooth="yes"/>
+      <point x="448" y="494"/>
+      <point x="400" y="487"/>
+      <point x="365" y="480" type="curve"/>
+      <point x="356" y="651" type="line"/>
+      <point x="405" y="669"/>
+      <point x="478" y="687"/>
+      <point x="551" y="687" type="curve" smooth="yes"/>
+      <point x="679" y="687"/>
+      <point x="762" y="630"/>
+      <point x="762" y="477" type="curve" smooth="yes"/>
+      <point x="762" y="381"/>
+      <point x="729" y="317"/>
+      <point x="635" y="240" type="curve" smooth="yes"/>
+      <point x="575" y="190" type="line"/>
+      <point x="759" y="190" type="line"/>
+      <point x="759" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

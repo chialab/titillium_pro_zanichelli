@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="221"/>
+  <note>
+two.dnom
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="33" type="line"/>
+      <point x="64" y="33" type="line"/>
+      <point x="133" y="115" type="line" smooth="yes"/>
+      <point x="175" y="165"/>
+      <point x="189" y="191"/>
+      <point x="189" y="236" type="curve" smooth="yes"/>
+      <point x="189" y="293"/>
+      <point x="162" y="321"/>
+      <point x="109" y="321" type="curve" smooth="yes"/>
+      <point x="72" y="321"/>
+      <point x="25" y="308"/>
+      <point x="25" y="308" type="curve"/>
+      <point x="26" y="279" type="line"/>
+      <point x="26" y="279"/>
+      <point x="77" y="289"/>
+      <point x="106" y="289" type="curve" smooth="yes"/>
+      <point x="133" y="289"/>
+      <point x="155" y="273"/>
+      <point x="155" y="237" type="curve" smooth="yes"/>
+      <point x="155" y="198"/>
+      <point x="135" y="171"/>
+      <point x="110" y="140" type="curve" smooth="yes"/>
+      <point x="22" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

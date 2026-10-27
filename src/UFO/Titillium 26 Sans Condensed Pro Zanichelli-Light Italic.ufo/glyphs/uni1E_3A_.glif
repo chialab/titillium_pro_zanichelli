@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E3A" format="2">
+  <advance width="408"/>
+  <unicode hex="1E3A"/>
+  <note>
+uni1E3A
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="361" y="56" type="line"/>
+      <point x="95" y="56" type="line"/>
+      <point x="232" y="700" type="line"/>
+      <point x="171" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="-139" type="line"/>
+      <point x="286" y="-139" type="line"/>
+      <point x="296" y="-91" type="line"/>
+      <point x="53" y="-91" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

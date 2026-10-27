@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve" format="2">
+  <advance width="212"/>
+  <unicode hex="012C"/>
+  <note>
+Ibreve
+</note>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="232" y="700" type="line"/>
+      <point x="171" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="778" type="curve" smooth="yes"/>
+      <point x="303" y="778"/>
+      <point x="355" y="838"/>
+      <point x="374" y="911" type="curve"/>
+      <point x="322" y="911" type="line"/>
+      <point x="308" y="861"/>
+      <point x="272" y="825"/>
+      <point x="224" y="825" type="curve" smooth="yes"/>
+      <point x="175" y="825"/>
+      <point x="155" y="863"/>
+      <point x="163" y="911" type="curve"/>
+      <point x="116" y="911" type="line"/>
+      <point x="105" y="838"/>
+      <point x="142" y="778"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.ss05" format="2">
+  <advance width="1222"/>
+  <note>
+I.ss05
+</note>
+  <outline>
+    <contour>
+      <point x="-78" y="-230" type="line"/>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="843" type="line"/>
+      <point x="-2" y="-169" type="line"/>
+      <point x="1007" y="-169" type="line"/>
+      <point x="1222" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="676" y="700" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="737" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

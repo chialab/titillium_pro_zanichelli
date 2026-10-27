@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="455"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="137" y="350" name="center"/>
+  <anchor x="138" y="700" name="top"/>
+  <anchor x="285" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="447" y="56" type="line"/>
+      <point x="169" y="56" type="line"/>
+      <point x="169" y="323" type="line"/>
+      <point x="309" y="401" type="line"/>
+      <point x="286" y="449" type="line"/>
+      <point x="169" y="380" type="line"/>
+      <point x="169" y="700" type="line"/>
+      <point x="107" y="700" type="line"/>
+      <point x="107" y="359" type="line"/>
+      <point x="13" y="307" type="line"/>
+      <point x="37" y="260" type="line"/>
+      <point x="107" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

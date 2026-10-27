@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ograve" format="2">
+  <advance width="443"/>
+  <unicode hex="00F2"/>
+  <note>
+ograve
+</note>
+  <outline>
+    <contour>
+      <point x="172" y="-11" type="curve" smooth="yes"/>
+      <point x="349" y="-11"/>
+      <point x="412" y="209"/>
+      <point x="412" y="361" type="curve" smooth="yes"/>
+      <point x="412" y="463"/>
+      <point x="366" y="512"/>
+      <point x="271" y="512" type="curve" smooth="yes"/>
+      <point x="98" y="512"/>
+      <point x="31" y="286"/>
+      <point x="31" y="145" type="curve" smooth="yes"/>
+      <point x="31" y="38"/>
+      <point x="80" y="-11"/>
+    </contour>
+    <contour>
+      <point x="177" y="41" type="curve" smooth="yes"/>
+      <point x="115" y="41"/>
+      <point x="90" y="77"/>
+      <point x="90" y="139" type="curve" smooth="yes"/>
+      <point x="90" y="253"/>
+      <point x="140" y="460"/>
+      <point x="267" y="460" type="curve" smooth="yes"/>
+      <point x="326" y="460"/>
+      <point x="353" y="431"/>
+      <point x="353" y="367" type="curve" smooth="yes"/>
+      <point x="353" y="245"/>
+      <point x="301" y="41"/>
+    </contour>
+    <contour>
+      <point x="372" y="598" type="line"/>
+      <point x="393" y="640" type="line"/>
+      <point x="225" y="737" type="line"/>
+      <point x="198" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

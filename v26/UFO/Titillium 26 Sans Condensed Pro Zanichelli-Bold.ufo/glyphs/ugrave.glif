@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ugrave" format="2">
+  <advance width="492"/>
+  <unicode hex="00F9"/>
+  <note>
+ugrave
+</note>
+  <anchor x="247" y="0" name="bottom"/>
+  <anchor x="421" y="0" name="ogonek"/>
+  <anchor x="218" y="753" name="top"/>
+  <anchor x="478" y="510" name="topright"/>
+  <outline>
+    <contour>
+      <point x="204" y="-14" type="curve" smooth="yes"/>
+      <point x="247" y="-14"/>
+      <point x="311" y="30"/>
+      <point x="311" y="30" type="curve"/>
+      <point x="311" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="444" y="510" type="line"/>
+      <point x="310" y="510" type="line"/>
+      <point x="310" y="128" type="line"/>
+      <point x="310" y="128"/>
+      <point x="272" y="106"/>
+      <point x="233" y="106" type="curve" smooth="yes"/>
+      <point x="180" y="106"/>
+      <point x="178" y="145"/>
+      <point x="178" y="234" type="curve" smooth="yes"/>
+      <point x="178" y="510" type="line"/>
+      <point x="44" y="510" type="line"/>
+      <point x="44" y="236" type="line" smooth="yes"/>
+      <point x="44" y="67"/>
+      <point x="71" y="-14"/>
+    </contour>
+    <contour>
+      <point x="337" y="564" type="line"/>
+      <point x="363" y="651" type="line"/>
+      <point x="110" y="753" type="line"/>
+      <point x="73" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

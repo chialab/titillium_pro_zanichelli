@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron" format="2">
+  <advance width="472"/>
+  <unicode hex="017D"/>
+  <note>
+Zcaron
+</note>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="190" y="350" name="center"/>
+  <anchor x="236" y="920" name="top"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="70" type="line"/>
+      <point x="118" y="70" type="line"/>
+      <point x="118" y="95" type="line"/>
+      <point x="436" y="595" type="line"/>
+      <point x="436" y="700" type="line"/>
+      <point x="36" y="700" type="line"/>
+      <point x="36" y="632" type="line"/>
+      <point x="354" y="632" type="line"/>
+      <point x="354" y="607" type="line"/>
+      <point x="36" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="776" type="line"/>
+      <point x="272" y="776" type="line"/>
+      <point x="376" y="915" type="line"/>
+      <point x="302" y="915" type="line"/>
+      <point x="236" y="829" type="line"/>
+      <point x="171" y="915" type="line"/>
+      <point x="97" y="915" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

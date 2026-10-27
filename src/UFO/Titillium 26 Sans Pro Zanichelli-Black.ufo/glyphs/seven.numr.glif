@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.numr" format="2">
+  <advance width="297"/>
+  <note>
+seven.numr
+</note>
+  <outline>
+    <contour>
+      <point x="152" y="359" type="line"/>
+      <point x="285" y="603" type="line"/>
+      <point x="285" y="716" type="line"/>
+      <point x="12" y="716" type="line"/>
+      <point x="12" y="599" type="line"/>
+      <point x="133" y="599" type="line"/>
+      <point x="133" y="584" type="line"/>
+      <point x="31" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 08:18:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

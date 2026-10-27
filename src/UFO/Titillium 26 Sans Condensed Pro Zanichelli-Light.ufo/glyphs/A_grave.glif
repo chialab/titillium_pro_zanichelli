@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="525"/>
+  <unicode hex="00C0"/>
+  <note>
+Agrave
+</note>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="507" y="0" name="ogonek"/>
+  <anchor x="261" y="917" name="top"/>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="129" y="198" type="line"/>
+      <point x="393" y="198" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="319" y="700" type="line"/>
+      <point x="205" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="253" type="line"/>
+      <point x="248" y="642" type="line"/>
+      <point x="274" y="642" type="line"/>
+      <point x="377" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="778" type="line"/>
+      <point x="366" y="820" type="line"/>
+      <point x="177" y="917" type="line"/>
+      <point x="156" y="866" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

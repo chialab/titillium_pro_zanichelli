@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <advance width="0"/>
+  <note>
+acutecomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="149" y="778" type="line"/>
+      <point x="328" y="866" type="line"/>
+      <point x="301" y="917" type="line"/>
+      <point x="129" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0313" format="2">
+  <advance width="0"/>
+  <unicode hex="0313"/>
+  <note>
+uni0313
+</note>
+  <anchor x="161" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="161" y="568" type="line"/>
+      <point x="272" y="710" type="line"/>
+      <point x="134" y="794" type="line"/>
+      <point x="50" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-01 08:18:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

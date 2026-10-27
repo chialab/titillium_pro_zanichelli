@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="418"/>
+  <unicode hex="0076"/>
+  <note>
+v
+</note>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="210" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="393" y="500" type="line"/>
+      <point x="358" y="500" type="line"/>
+      <point x="219" y="32" type="line"/>
+      <point x="201" y="32" type="line"/>
+      <point x="61" y="500" type="line"/>
+      <point x="25" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

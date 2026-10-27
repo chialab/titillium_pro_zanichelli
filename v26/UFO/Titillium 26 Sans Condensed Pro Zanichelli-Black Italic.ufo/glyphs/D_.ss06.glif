@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+D.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="-45" y="-230" type="line"/>
+      <point x="980" y="-230" type="line"/>
+      <point x="1197" y="904" type="line"/>
+      <point x="173" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="0" type="curve" smooth="yes"/>
+      <point x="279" y="0" type="line"/>
+      <point x="415" y="710" type="line"/>
+      <point x="646" y="710" type="line" smooth="yes"/>
+      <point x="803" y="710"/>
+      <point x="894" y="640"/>
+      <point x="894" y="459" type="curve" smooth="yes"/>
+      <point x="894" y="239"/>
+      <point x="798" y="0"/>
+    </contour>
+    <contour>
+      <point x="517" y="189" type="line"/>
+      <point x="565" y="189" type="line" smooth="yes"/>
+      <point x="644" y="189"/>
+      <point x="685" y="300"/>
+      <point x="685" y="425" type="curve" smooth="yes"/>
+      <point x="685" y="501"/>
+      <point x="668" y="521"/>
+      <point x="621" y="521" type="curve" smooth="yes"/>
+      <point x="581" y="521" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:53:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

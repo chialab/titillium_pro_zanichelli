@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aacute" format="2">
+  <advance width="592"/>
+  <unicode hex="00C1"/>
+  <note>
+Aacute
+</note>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="590" y="0" name="ogonek"/>
+  <anchor x="297" y="990" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="228" y="113" type="line"/>
+      <point x="358" y="113" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="458" y="710" type="line"/>
+      <point x="133" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="290" type="line"/>
+      <point x="289" y="528" type="line"/>
+      <point x="303" y="528" type="line"/>
+      <point x="336" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="750" type="line"/>
+      <point x="457" y="831" type="line"/>
+      <point x="402" y="992" type="line"/>
+      <point x="137" y="869" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

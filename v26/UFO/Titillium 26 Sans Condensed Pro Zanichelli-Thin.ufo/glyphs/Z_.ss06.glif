@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.ss06" format="2">
+  <advance width="1120"/>
+  <note>
+Z.ss06
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-230" type="line"/>
+      <point x="1059" y="-230" type="line"/>
+      <point x="1059" y="904" type="line"/>
+      <point x="61" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="-1" type="line"/>
+      <point x="377" y="67" type="line"/>
+      <point x="734" y="641" type="line"/>
+      <point x="734" y="666" type="line"/>
+      <point x="378" y="666" type="line"/>
+      <point x="378" y="700" type="line"/>
+      <point x="770" y="700" type="line"/>
+      <point x="770" y="632" type="line"/>
+      <point x="414" y="58" type="line"/>
+      <point x="414" y="33" type="line"/>
+      <point x="770" y="33" type="line"/>
+      <point x="770" y="-1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

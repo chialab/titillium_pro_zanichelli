@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis" format="2">
+  <advance width="460"/>
+  <unicode hex="0178"/>
+  <note>
+Ydieresis
+</note>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="275" y="294" type="line"/>
+      <point x="551" y="700" type="line"/>
+      <point x="461" y="700" type="line"/>
+      <point x="251" y="376" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="114" y="700" type="line"/>
+      <point x="199" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="804" type="line"/>
+      <point x="289" y="804" type="line"/>
+      <point x="307" y="891" type="line"/>
+      <point x="235" y="891" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="804" type="line"/>
+      <point x="470" y="804" type="line"/>
+      <point x="488" y="891" type="line"/>
+      <point x="415" y="891" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

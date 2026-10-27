@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="676"/>
+  <unicode hex="0175"/>
+  <note>
+wcircumflex
+</note>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="338" y="737" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="338" y="413" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="652" y="500" type="line"/>
+      <point x="592" y="500" type="line"/>
+      <point x="499" y="52" type="line"/>
+      <point x="479" y="52" type="line"/>
+      <point x="370" y="490" type="line"/>
+      <point x="308" y="490" type="line"/>
+      <point x="198" y="52" type="line"/>
+      <point x="177" y="52" type="line"/>
+      <point x="84" y="500" type="line"/>
+      <point x="25" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="603" type="line"/>
+      <point x="266" y="603" type="line"/>
+      <point x="338" y="688" type="line"/>
+      <point x="409" y="603" type="line"/>
+      <point x="470" y="603" type="line"/>
+      <point x="365" y="732" type="line"/>
+      <point x="310" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:20 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

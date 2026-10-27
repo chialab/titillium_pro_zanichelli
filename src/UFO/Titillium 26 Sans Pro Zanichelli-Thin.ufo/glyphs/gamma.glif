@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma" format="2">
+  <advance width="542"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="287" y="-230" type="line"/>
+      <point x="323" y="-230" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="511" y="500" type="line"/>
+      <point x="476" y="500" type="line"/>
+      <point x="322" y="32" type="line"/>
+      <point x="289" y="32" type="line"/>
+      <point x="152" y="449" type="line" smooth="yes"/>
+      <point x="136" y="497"/>
+      <point x="125" y="510"/>
+      <point x="82" y="510" type="curve" smooth="yes"/>
+      <point x="47" y="510"/>
+      <point x="30" y="503"/>
+      <point x="30" y="503" type="curve"/>
+      <point x="33" y="474" type="line"/>
+      <point x="33" y="474"/>
+      <point x="51" y="478"/>
+      <point x="79" y="478" type="curve" smooth="yes"/>
+      <point x="100" y="478"/>
+      <point x="110" y="467"/>
+      <point x="118" y="443" type="curve" smooth="yes"/>
+      <point x="264" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-07-15 11:31:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

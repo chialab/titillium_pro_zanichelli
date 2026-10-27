@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25CF" format="2">
+  <advance width="795"/>
+  <unicode hex="25CF"/>
+  <note>
+uni25CF
+</note>
+  <outline>
+    <contour>
+      <point x="344" y="-40" type="curve" smooth="yes"/>
+      <point x="571" y="-40"/>
+      <point x="780" y="183"/>
+      <point x="780" y="431" type="curve" smooth="yes"/>
+      <point x="780" y="609"/>
+      <point x="666" y="740"/>
+      <point x="492" y="740" type="curve" smooth="yes"/>
+      <point x="267" y="740"/>
+      <point x="58" y="519"/>
+      <point x="58" y="268" type="curve" smooth="yes"/>
+      <point x="58" y="88"/>
+      <point x="170" y="-40"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:54:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

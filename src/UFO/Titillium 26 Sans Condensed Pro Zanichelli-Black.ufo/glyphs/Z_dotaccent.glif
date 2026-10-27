@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="546"/>
+  <unicode hex="017B"/>
+  <note>
+Zdotaccent
+</note>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="350" name="center"/>
+  <anchor x="272" y="911" name="top"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="190" type="line"/>
+      <point x="310" y="190" type="line"/>
+      <point x="310" y="215" type="line"/>
+      <point x="513" y="511" type="line"/>
+      <point x="513" y="710" type="line"/>
+      <point x="28" y="710" type="line"/>
+      <point x="28" y="520" type="line"/>
+      <point x="228" y="520" type="line"/>
+      <point x="228" y="495" type="line"/>
+      <point x="19" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="757" type="line"/>
+      <point x="366" y="757" type="line"/>
+      <point x="366" y="911" type="line"/>
+      <point x="178" y="911" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute" format="2">
+  <advance width="348"/>
+  <unicode hex="0155"/>
+  <note>
+racute
+</note>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="177" y="810" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="290" type="line"/>
+      <point x="262" y="306"/>
+      <point x="300" y="324"/>
+      <point x="339" y="329" type="curve"/>
+      <point x="339" y="536" type="line"/>
+      <point x="294" y="529"/>
+      <point x="256" y="503"/>
+      <point x="218" y="475" type="curve"/>
+      <point x="218" y="520" type="line"/>
+      <point x="23" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="560" type="line"/>
+      <point x="333" y="641" type="line"/>
+      <point x="279" y="802" type="line"/>
+      <point x="13" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 09:34:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

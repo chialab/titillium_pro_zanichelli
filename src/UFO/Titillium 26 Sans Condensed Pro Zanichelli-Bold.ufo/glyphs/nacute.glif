@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute" format="2">
+  <advance width="490"/>
+  <unicode hex="0144"/>
+  <note>
+nacute
+</note>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="284" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="382" type="line"/>
+      <point x="182" y="382"/>
+      <point x="216" y="406"/>
+      <point x="252" y="406" type="curve" smooth="yes"/>
+      <point x="304" y="406"/>
+      <point x="312" y="357"/>
+      <point x="312" y="281" type="curve" smooth="yes"/>
+      <point x="312" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="285" type="line" smooth="yes"/>
+      <point x="446" y="438"/>
+      <point x="413" y="526"/>
+      <point x="287" y="526" type="curve" smooth="yes"/>
+      <point x="240" y="526"/>
+      <point x="181" y="480"/>
+      <point x="181" y="480" type="curve"/>
+      <point x="181" y="510" type="line"/>
+      <point x="48" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="564" type="line"/>
+      <point x="429" y="638" type="line"/>
+      <point x="392" y="753" type="line"/>
+      <point x="139" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-14 10:04:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

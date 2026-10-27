@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron" format="2">
+  <advance width="571"/>
+  <unicode hex="010E"/>
+  <note>
+Dcaron
+</note>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="252" y="0" type="line" smooth="yes"/>
+      <point x="501" y="0"/>
+      <point x="573" y="311"/>
+      <point x="573" y="493" type="curve" smooth="yes"/>
+      <point x="573" y="630"/>
+      <point x="512" y="710"/>
+      <point x="372" y="710" type="curve" smooth="yes"/>
+      <point x="155" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="120" type="curve" smooth="yes"/>
+      <point x="166" y="120" type="line"/>
+      <point x="266" y="590" type="line"/>
+      <point x="334" y="590" type="line" smooth="yes"/>
+      <point x="399" y="590"/>
+      <point x="431" y="562"/>
+      <point x="431" y="479" type="curve" smooth="yes"/>
+      <point x="431" y="332"/>
+      <point x="369" y="120"/>
+    </contour>
+    <contour>
+      <point x="311" y="769" type="line"/>
+      <point x="425" y="769" type="line"/>
+      <point x="585" y="946" type="line"/>
+      <point x="457" y="946" type="line"/>
+      <point x="375" y="848" type="line"/>
+      <point x="335" y="946" type="line"/>
+      <point x="227" y="946" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-16 10:50:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

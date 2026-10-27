@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="209"/>
+  <unicode hex="00A1"/>
+  <note>
+exclamdown
+</note>
+  <outline>
+    <contour>
+      <point x="48" y="-200" type="line"/>
+      <point x="161" y="-200" type="line"/>
+      <point x="151" y="257" type="line"/>
+      <point x="59" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="369" type="line"/>
+      <point x="161" y="369" type="line"/>
+      <point x="161" y="500" type="line"/>
+      <point x="49" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-27 14:52:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
