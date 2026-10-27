@@ -14,6 +14,8 @@ Nasce una versione nuova del Titillium per la casa editrice Zanichelli con le se
 4. Disegno dei glifi a “punti elenco” numerati e alfabetici inseriti in quadrati e cerchi (stylistic sets).
 5. Ottimizzazione spaziatura, kerning e metriche verticali.
 6. Sistemazione dei glifi corrotti e non funzionanti.
+7. Aggiunta taglio Condensed.
+8. Aggiunta di alcuni glifi dell'alfabeto Greco.
 
 
 ### Retrocompatibilità del Titillium Pro  
