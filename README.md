@@ -5,7 +5,7 @@
 
 
 
-### Titillium Pro Zanichelli  
+### Titillium Pro Zanichelli_v24  
 
 Nasce una versione nuova del Titillium per la casa editrice Zanichelli con le seguenti caratteristiche tecniche e di redesign:
 1. Disegno dei glifi per aumentare la copertura su lingue europee ed extraeuropee.
@@ -14,8 +14,15 @@ Nasce una versione nuova del Titillium per la casa editrice Zanichelli con le se
 4. Disegno dei glifi a “punti elenco” numerati e alfabetici inseriti in quadrati e cerchi (stylistic sets).
 5. Ottimizzazione spaziatura, kerning e metriche verticali.
 6. Sistemazione dei glifi corrotti e non funzionanti.
-7. Aggiunta taglio Condensed.
-8. Aggiunta di alcuni glifi dell'alfabeto Greco.
+
+
+### Titillium Pro Zanichelli_v26
+
+Viene incrementata una versione aggiornata del Titillium_v24 per la casa editrice Zanichelli con le seguenti caratteristiche tecniche:
+1. Aggiunta dei tagli Condensed e Condensed Italic.
+2. Aggiunta di alcuni glifi dell'alfabeto Greco.
+3. Aggiunta del glifo zero.zero nei vari style sets.
+
 
 
 ### Retrocompatibilità del Titillium Pro  
